@@ -1,0 +1,8318 @@
+Verbose Output:
+
+applicant =  1 (Male)
+	priority = 0
+		program =  31
+		 ['Male']
+			31: ['1']
+
+applicant =  2 (Male)
+	priority = 0
+		program =  31
+		 ['Male', 'Male']
+			31: ['1', '2']
+
+applicant =  3 (Male)
+	priority = 0
+		program =  9
+		 ['Male']
+			9: ['3']
+
+applicant =  4 (Male)
+	priority = 0
+		program =  31
+		 ['Male', 'Male', 'Male']
+			31: ['1', '2', '4']
+
+applicant =  5 (Male)
+	priority = 0
+		program =  9
+		 ['Male', 'Male']
+			9: ['3', '5']
+
+applicant =  7 (Male)
+	priority = 0
+		program =  39
+		 ['Male']
+			39: ['7']
+
+applicant =  8 (Male)
+	priority = 0
+		program =  15
+		 ['Male']
+			15: ['8']
+
+applicant =  9 (Male)
+	priority = 0
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male']
+			31: ['1', '2', '4', '9']
+
+applicant =  10 (Male)
+	priority = 0
+		program =  9
+		 ['Male', 'Male', 'Male']
+			9: ['3', '5', '10']
+
+applicant =  11 (Male)
+	priority = 0
+		program =  21
+		 ['Male']
+			21: ['11']
+
+applicant =  12 (Female)
+	priority = 0
+		program =  15
+		 ['Male', 'Female']
+			15: ['8', '12']
+
+applicant =  13 (Male)
+	priority = 0
+		program =  9
+		 ['Male', 'Male', 'Male', 'Male']
+			9: ['3', '5', '10', '13']
+
+applicant =  14 (Male)
+	priority = 0
+		program =  39
+		 ['Male', 'Male']
+			39: ['7', '14']
+
+applicant =  15 (Female)
+	priority = 0
+		program =  5
+		 ['Female']
+			5: ['15']
+
+applicant =  16 (Male)
+	priority = 0
+		program =  11
+		 ['Male']
+			11: ['16']
+
+applicant =  17 (Female)
+	priority = 0
+		program =  21
+		 ['Male', 'Female']
+			21: ['11', '17']
+
+applicant =  19 (Male)
+	priority = 0
+		program =  21
+		 ['Male', 'Female', 'Male']
+			21: ['11', '17', '19']
+
+applicant =  20 (Male)
+	priority = 0
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  32
+		 ['Male']
+			32: ['20']
+
+applicant =  21 (Male)
+	priority = 0
+		program =  15
+		 ['Male', 'Female', 'Male']
+			15: ['8', '12', '21']
+
+applicant =  22 (Male)
+	priority = 0
+		program =  25
+		 ['Male']
+			25: ['22']
+
+applicant =  23 (Male)
+	priority = 0
+		program =  21
+		 ['Male', 'Female', 'Male', 'Male']
+			21: ['11', '17', '19', '23']
+
+applicant =  24 (Male)
+	priority = 0
+		program =  21
+		 ['Male', 'Female', 'Male', 'Male', 'Male']
+			21: ['11', '17', '19', '23', '24']
+
+applicant =  25 (Male)
+	priority = 0
+		program =  39
+		 ['Male', 'Male', 'Male']
+			39: ['7', '14', '25']
+
+applicant =  26 (Male)
+	priority = 0
+		program =  9
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  10
+		 ['Male']
+			10: ['26']
+
+applicant =  27 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+		 ['Male']
+			22: ['27']
+
+applicant =  28 (Male)
+	priority = 0
+		program =  39
+		 ['Male', 'Male', 'Male', 'Male']
+			39: ['7', '14', '25', '28']
+
+applicant =  29 (Male)
+	priority = 0
+		program =  15
+		 ['Male', 'Female', 'Male', 'Male']
+			15: ['8', '12', '21', '29']
+
+applicant =  30 (Male)
+	priority = 0
+		program =  9
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  15
+		 ['Male', 'Female', 'Male', 'Male', 'Male']
+			15: ['8', '12', '21', '29', '30']
+
+applicant =  31 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+		 ['Male']
+			16: ['31']
+
+applicant =  32 (Male)
+	priority = 0
+		program =  19
+		 ['Male']
+			19: ['32']
+
+applicant =  33 (Male)
+	priority = 0
+		program =  11
+		 ['Male', 'Male']
+			11: ['16', '33']
+
+applicant =  34 (Male)
+	priority = 0
+		program =  10
+		 ['Male', 'Male']
+			10: ['26', '34']
+
+applicant =  35 (Male)
+	priority = 0
+		program =  9
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  10
+		 ['Male', 'Male', 'Male']
+			10: ['26', '34', '35']
+
+applicant =  36 (Male)
+	priority = 0
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male']
+			10: ['26', '34', '35', '36']
+
+applicant =  37 (Male)
+	priority = 0
+		program =  9
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			10: ['26', '34', '35', '36', '37']
+
+applicant =  38 (Male)
+	priority = 0
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  15
+			len programs[program] =  5
+	priority = 2
+		program =  16
+		 ['Male', 'Male']
+			16: ['31', '38']
+
+applicant =  39 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+		 ['Male', 'Male', 'Male']
+			16: ['31', '38', '39']
+
+applicant =  40 (Male)
+	priority = 0
+		program =  9
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male']
+			16: ['31', '38', '39', '40']
+
+applicant =  41 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			16: ['31', '38', '39', '40', '41']
+
+applicant =  42 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+		 ['Male', 'Male']
+			22: ['27', '42']
+
+applicant =  43 (Male)
+	priority = 0
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+		 ['Male', 'Male']
+			25: ['22', '43']
+
+applicant =  44 (Male)
+	priority = 0
+		program =  45
+		 ['Male']
+			45: ['44']
+
+applicant =  45 (Male)
+	priority = 0
+		program =  9
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  46 (Male)
+	priority = 0
+		program =  11
+		 ['Male', 'Male', 'Male']
+			11: ['16', '33', '46']
+
+applicant =  47 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  17
+		 ['Male']
+			17: ['47']
+
+applicant =  48 (Male)
+	priority = 0
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  11
+		 ['Male', 'Male', 'Male', 'Male']
+			11: ['16', '33', '46', '48']
+
+applicant =  49 (Male)
+	priority = 0
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  22
+		 ['Male', 'Male', 'Male']
+			22: ['27', '42', '49']
+
+applicant =  50 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  39
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  43
+		 ['Male']
+			43: ['50']
+
+applicant =  51 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  21
+			len programs[program] =  5
+	priority = 2
+		program =  13
+		 ['Male']
+			13: ['51']
+
+applicant =  52 (Male)
+	priority = 0
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male']
+			22: ['27', '42', '49', '52']
+
+applicant =  53 (Male)
+	priority = 0
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  17
+		 ['Male', 'Male']
+			17: ['47', '53']
+
+applicant =  54 (Female)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  17
+		 ['Male', 'Male', 'Female']
+			17: ['47', '53', '54']
+
+applicant =  55 (Male)
+	priority = 0
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  56 (Female)
+	priority = 0
+		program =  9
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			9: ['3', '5', '10', '13', '56']
+
+applicant =  57 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  17
+		 ['Male', 'Male', 'Female', 'Male']
+			17: ['47', '53', '54', '57']
+
+applicant =  58 (Male)
+	priority = 0
+		program =  39
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  40
+		 ['Male']
+			40: ['58']
+
+applicant =  60 (Male)
+	priority = 0
+		program =  17
+		 ['Male', 'Male', 'Female', 'Male', 'Male']
+			17: ['47', '53', '54', '57', '60']
+
+applicant =  61 (Male)
+	priority = 0
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+		 ['Male', 'Male', 'Male']
+			25: ['22', '43', '61']
+
+applicant =  62 (Female)
+	priority = 0
+		program =  39
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			39: ['7', '14', '25', '28', '62']
+
+applicant =  63 (Male)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  21
+			len programs[program] =  5
+	priority = 2
+		program =  40
+		 ['Male', 'Male']
+			40: ['58', '63']
+
+applicant =  64 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			22: ['27', '42', '49', '52', '64']
+
+applicant =  65 (Male)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  21
+			len programs[program] =  5
+	priority = 2
+		program =  11
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  18
+		 ['Male']
+			18: ['65']
+
+applicant =  66 (Male)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  18
+		 ['Male', 'Male']
+			18: ['65', '66']
+
+applicant =  67 (Male)
+	priority = 0
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  13
+		 ['Male', 'Male']
+			13: ['51', '67']
+
+applicant =  68 (Male)
+	priority = 0
+		program =  11
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  12
+		 ['Male']
+			12: ['68']
+
+applicant =  70 (Male)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  71 (Male)
+	priority = 0
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  17
+			len programs[program] =  5
+	priority = 2
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  11
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  13
+		 ['Male', 'Male', 'Male']
+			13: ['51', '67', '71']
+
+applicant =  72 (Female)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			10: ['26', '34', '35', '36', '37', '72']
+
+applicant =  73 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  15
+			len programs[program] =  5
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  18
+		 ['Male', 'Male', 'Male']
+			18: ['65', '66', '73']
+
+applicant =  74 (Male)
+	priority = 0
+		program =  29
+		 ['Male']
+			29: ['74']
+
+applicant =  75 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  76 (Female)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  21
+			len programs[program] =  5
+	priority = 3
+		program =  15
+			len programs[program] =  5
+	priority = 4
+		program =  11
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			11: ['16', '33', '46', '48', '76']
+
+applicant =  77 (Male)
+	priority = 0
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male']
+			25: ['22', '43', '61', '77']
+
+applicant =  78 (Male)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  17
+			len programs[program] =  5
+	priority = 5
+		program =  11
+			len programs[program] =  5
+	priority = 6
+		program =  23
+		 ['Male']
+			23: ['78']
+
+applicant =  79 (Male)
+	priority = 0
+		program =  11
+			len programs[program] =  5
+	priority = 1
+		program =  12
+		 ['Male', 'Male']
+			12: ['68', '79']
+
+applicant =  80 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  10
+			len programs[program] =  6
+	priority = 3
+		program =  17
+			len programs[program] =  5
+	priority = 4
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male']
+			18: ['65', '66', '73', '80']
+
+applicant =  81 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  15
+			len programs[program] =  5
+	priority = 2
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  21
+			len programs[program] =  5
+	priority = 4
+		program =  17
+			len programs[program] =  5
+	priority = 5
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 6
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			18: ['65', '66', '73', '80', '81']
+
+applicant =  82 (Male)
+	priority = 0
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  12
+		 ['Male', 'Male', 'Male']
+			12: ['68', '79', '82']
+
+applicant =  83 (Male)
+	priority = 0
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  11
+			len programs[program] =  5
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male']
+			12: ['68', '79', '82', '83']
+
+applicant =  84 (Male)
+	priority = 0
+		program =  11
+			len programs[program] =  5
+	priority = 1
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male']
+			13: ['51', '67', '71', '84']
+
+applicant =  86 (Male)
+	priority = 0
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  14
+		 ['Male']
+			14: ['86']
+
+applicant =  87 (Male)
+	priority = 0
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  32
+		 ['Male', 'Male']
+			32: ['20', '87']
+
+applicant =  89 (Female)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  43
+		 ['Male', 'Female']
+			43: ['50', '89']
+
+applicant =  90 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  91 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  17
+			len programs[program] =  5
+	priority = 2
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  21
+			len programs[program] =  5
+	priority = 4
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  92 (Male)
+	priority = 0
+		program =  11
+			len programs[program] =  5
+	priority = 1
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			12: ['68', '79', '82', '83', '92']
+
+applicant =  93 (Male)
+	priority = 0
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  29
+		 ['Male', 'Male']
+			29: ['74', '93']
+
+applicant =  94 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  11
+			len programs[program] =  5
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  39
+			len programs[program] =  5
+
+applicant =  95 (Female)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  43
+		 ['Male', 'Female', 'Female']
+			43: ['50', '89', '95']
+
+applicant =  98 (Male)
+	priority = 0
+		program =  45
+		 ['Male', 'Male']
+			45: ['44', '98']
+
+applicant =  99 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  15
+			len programs[program] =  5
+	priority = 2
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  11
+			len programs[program] =  5
+	priority = 4
+		program =  17
+			len programs[program] =  5
+	priority = 5
+		program =  19
+		 ['Male', 'Male']
+			19: ['32', '99']
+
+applicant =  100 (Male)
+	priority = 0
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  29
+		 ['Male', 'Male', 'Male']
+			29: ['74', '93', '100']
+
+applicant =  101 (Male)
+	priority = 0
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  102 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  24
+		 ['Male']
+			24: ['102']
+
+applicant =  103 (Male)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  11
+			len programs[program] =  5
+	priority = 2
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  104 (Male)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  105 (Male)
+	priority = 0
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  11
+			len programs[program] =  5
+	priority = 4
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  106 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  107 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  17
+			len programs[program] =  5
+	priority = 2
+		program =  11
+			len programs[program] =  5
+	priority = 3
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  108 (Female)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  21
+			len programs[program] =  5
+	priority = 3
+		program =  22
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			22: ['27', '42', '49', '52', '64', '108']
+
+applicant =  109 (Male)
+	priority = 0
+		program =  1
+		 ['Male']
+			1: ['109']
+
+applicant =  110 (Male)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  11
+			len programs[program] =  5
+	priority = 3
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  14
+		 ['Male', 'Male']
+			14: ['86', '110']
+
+applicant =  112 (Male)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  21
+			len programs[program] =  5
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  11
+			len programs[program] =  5
+	priority = 4
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  22
+			len programs[program] =  6
+	priority = 6
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 7
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 8
+		program =  23
+		 ['Male', 'Male']
+			23: ['78', '112']
+
+applicant =  113 (Male)
+	priority = 0
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  32
+		 ['Male', 'Male', 'Male']
+			32: ['20', '87', '113']
+
+applicant =  114 (Male)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  10
+			len programs[program] =  6
+
+applicant =  115 (Male)
+	priority = 0
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male']
+			29: ['74', '93', '100', '115']
+
+applicant =  116 (Male)
+	priority = 0
+		program =  5
+		 ['Female', 'Male']
+			5: ['15', '116']
+
+applicant =  118 (Male)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  43
+		 ['Male', 'Female', 'Female', 'Male']
+			43: ['50', '89', '95', '118']
+
+applicant =  119 (Male)
+	priority = 0
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  120 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  11
+			len programs[program] =  5
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  17
+			len programs[program] =  5
+	priority = 5
+		program =  23
+		 ['Male', 'Male', 'Male']
+			23: ['78', '112', '120']
+
+applicant =  121 (Male)
+	priority = 0
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  21
+			len programs[program] =  5
+	priority = 5
+		program =  22
+			len programs[program] =  6
+	priority = 6
+		program =  11
+			len programs[program] =  5
+	priority = 7
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  122 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  19
+		 ['Male', 'Male', 'Male']
+			19: ['32', '99', '122']
+
+applicant =  123 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  11
+			len programs[program] =  5
+	priority = 5
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 6
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 7
+		program =  21
+			len programs[program] =  5
+	priority = 8
+		program =  14
+		 ['Male', 'Male', 'Male']
+			14: ['86', '110', '123']
+
+applicant =  124 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  19
+		 ['Male', 'Male', 'Male', 'Male']
+			19: ['32', '99', '122', '124']
+
+applicant =  126 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  127 (Female)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  16
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			16: ['31', '38', '39', '40', '41', '127']
+
+applicant =  128 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  129 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  14
+		 ['Male', 'Male', 'Male', 'Male']
+			14: ['86', '110', '123', '129']
+
+applicant =  130 (Male)
+	priority = 0
+		program =  5
+		 ['Female', 'Male', 'Male']
+			5: ['15', '116', '130']
+
+applicant =  131 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  22
+			len programs[program] =  6
+	priority = 4
+		program =  14
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			14: ['86', '110', '123', '129', '131']
+
+applicant =  132 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  21
+			len programs[program] =  5
+	priority = 4
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 6
+		program =  22
+			len programs[program] =  6
+	priority = 7
+		program =  14
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  133 (Female)
+	priority = 0
+		program =  43
+		 ['Male', 'Female', 'Female', 'Male', 'Female']
+			43: ['50', '89', '95', '118', '133']
+
+applicant =  134 (Male)
+	priority = 0
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  27
+		 ['Male']
+			27: ['134']
+
+applicant =  135 (Female)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  40
+		 ['Male', 'Male', 'Female']
+			40: ['58', '63', '135']
+
+applicant =  136 (Female)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  40
+		 ['Male', 'Male', 'Female', 'Female']
+			40: ['58', '63', '135', '136']
+
+applicant =  137 (Male)
+	priority = 0
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  16
+			len programs[program] =  6
+	priority = 3
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  138 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+
+applicant =  139 (Female)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  11
+			len programs[program] =  5
+	priority = 3
+		program =  17
+			len programs[program] =  5
+	priority = 4
+		program =  13
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			13: ['51', '67', '71', '84', '139']
+
+applicant =  140 (Female)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  16
+			len programs[program] =  6
+	priority = 4
+		program =  21
+			len programs[program] =  5
+	priority = 5
+		program =  22
+			len programs[program] =  6
+	priority = 6
+		program =  17
+			len programs[program] =  5
+	priority = 7
+		program =  18
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			18: ['65', '66', '73', '80', '81', '140']
+
+applicant =  141 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  11
+			len programs[program] =  5
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  21
+			len programs[program] =  5
+	priority = 5
+		program =  22
+			len programs[program] =  6
+	priority = 6
+		program =  17
+			len programs[program] =  5
+	priority = 7
+		program =  18
+			len programs[program] =  6
+
+applicant =  142 (Male)
+	priority = 0
+		program =  3
+		 ['Male']
+			3: ['142']
+
+applicant =  143 (Male)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  41
+		 ['Male']
+			41: ['143']
+
+applicant =  144 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  145 (Male)
+	priority = 0
+		program =  5
+		 ['Female', 'Male', 'Male', 'Male']
+			5: ['15', '116', '130', '145']
+
+applicant =  146 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  23
+		 ['Male', 'Male', 'Male', 'Male']
+			23: ['78', '112', '120', '146']
+
+applicant =  147 (Male)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  45
+		 ['Male', 'Male', 'Male']
+			45: ['44', '98', '147']
+
+applicant =  148 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  149 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  13
+			len programs[program] =  5
+	priority = 3
+		program =  14
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  150 (Male)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  16
+			len programs[program] =  6
+	priority = 4
+		program =  22
+			len programs[program] =  6
+
+applicant =  151 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  19
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  43
+			len programs[program] =  5
+	priority = 3
+		program =  41
+		 ['Male', 'Male']
+			41: ['143', '151']
+
+applicant =  152 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  153 (Male)
+	priority = 0
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  30
+		 ['Male']
+			30: ['153']
+
+applicant =  154 (Female)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  40
+		 ['Male', 'Male', 'Female', 'Female', 'Female']
+			40: ['58', '63', '135', '136', '154']
+
+applicant =  155 (Male)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  40
+		 ['Male', 'Male', 'Female', 'Female', 'Female', 'Male']
+			40: ['58', '63', '135', '136', '154', '155']
+
+applicant =  156 (Female)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  10
+			len programs[program] =  6
+	priority = 3
+		program =  17
+			len programs[program] =  5
+	priority = 4
+		program =  21
+			len programs[program] =  5
+	priority = 5
+		program =  11
+			len programs[program] =  5
+	priority = 6
+		program =  13
+			len programs[program] =  5
+	priority = 7
+		program =  23
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			23: ['78', '112', '120', '146', '156']
+
+applicant =  157 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  43
+			len programs[program] =  5
+
+applicant =  158 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  13
+			len programs[program] =  5
+	priority = 3
+		program =  14
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  159 (Female)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  160 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  21
+			len programs[program] =  5
+	priority = 2
+		program =  22
+			len programs[program] =  6
+	priority = 3
+		program =  13
+			len programs[program] =  5
+	priority = 4
+		program =  15
+			len programs[program] =  5
+	priority = 5
+		program =  19
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 6
+		program =  35
+		 ['Male']
+			35: ['160']
+
+applicant =  161 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  162 (Male)
+	priority = 0
+		program =  5
+		 ['Female', 'Male', 'Male', 'Male', 'Male']
+			5: ['15', '116', '130', '145', '162']
+
+applicant =  163 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+		 ['Male', 'Male']
+			3: ['142', '163']
+
+applicant =  164 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  19
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  165 (Male)
+	priority = 0
+		program =  11
+			len programs[program] =  5
+	priority = 1
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  23
+			len programs[program] =  5
+	priority = 3
+		program =  13
+			len programs[program] =  5
+	priority = 4
+		program =  22
+			len programs[program] =  6
+	priority = 5
+		program =  14
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 6
+		program =  39
+			len programs[program] =  5
+	priority = 7
+		program =  19
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 8
+		program =  40
+			len programs[program] =  6
+
+applicant =  166 (Female)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+
+applicant =  167 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  13
+			len programs[program] =  5
+	priority = 2
+		program =  14
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  168 (Male)
+	priority = 0
+		program =  1
+		 ['Male', 'Male']
+			1: ['109', '168']
+
+applicant =  169 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  23
+			len programs[program] =  5
+	priority = 5
+		program =  13
+			len programs[program] =  5
+	priority = 6
+		program =  24
+		 ['Male', 'Male']
+			24: ['102', '169']
+
+applicant =  170 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  22
+			len programs[program] =  6
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  23
+			len programs[program] =  5
+	priority = 5
+		program =  39
+			len programs[program] =  5
+	priority = 6
+		program =  19
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 7
+		program =  13
+			len programs[program] =  5
+	priority = 8
+		program =  40
+			len programs[program] =  6
+	priority = 9
+		program =  24
+		 ['Male', 'Male', 'Male']
+			24: ['102', '169', '170']
+
+applicant =  171 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  19
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  172 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  22
+			len programs[program] =  6
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  173 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  13
+			len programs[program] =  5
+	priority = 4
+		program =  14
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  174 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  175 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  176 (Male)
+	priority = 0
+		program =  1
+		 ['Male', 'Male', 'Male']
+			1: ['109', '168', '176']
+
+applicant =  177 (Female)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  15
+			len programs[program] =  5
+	priority = 2
+		program =  16
+			len programs[program] =  6
+	priority = 3
+		program =  21
+			len programs[program] =  5
+	priority = 4
+		program =  22
+			len programs[program] =  6
+	priority = 5
+		program =  17
+			len programs[program] =  5
+	priority = 6
+		program =  18
+			len programs[program] =  6
+	priority = 7
+		program =  13
+			len programs[program] =  5
+	priority = 8
+		program =  14
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			14: ['86', '110', '123', '129', '131', '177']
+
+applicant =  178 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  18
+			len programs[program] =  6
+	priority = 4
+		program =  21
+			len programs[program] =  5
+	priority = 5
+		program =  22
+			len programs[program] =  6
+	priority = 6
+		program =  11
+			len programs[program] =  5
+	priority = 7
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 8
+		program =  23
+			len programs[program] =  5
+	priority = 9
+		program =  13
+			len programs[program] =  5
+	priority = 10
+		program =  19
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 11
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male']
+			24: ['102', '169', '170', '178']
+
+applicant =  179 (Male)
+	priority = 0
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			24: ['102', '169', '170', '178', '179']
+
+applicant =  180 (Male)
+	priority = 0
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male']
+			32: ['20', '87', '113', '180']
+
+applicant =  182 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  16
+			len programs[program] =  6
+
+applicant =  183 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  184 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  13
+			len programs[program] =  5
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  185 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  21
+			len programs[program] =  5
+	priority = 3
+		program =  22
+			len programs[program] =  6
+	priority = 4
+		program =  13
+			len programs[program] =  5
+	priority = 5
+		program =  14
+			len programs[program] =  6
+
+applicant =  186 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  22
+			len programs[program] =  6
+	priority = 3
+		program =  18
+			len programs[program] =  6
+	priority = 4
+		program =  14
+			len programs[program] =  6
+	priority = 5
+		program =  23
+			len programs[program] =  5
+	priority = 6
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 7
+		program =  39
+			len programs[program] =  5
+
+applicant =  187 (Male)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  21
+			len programs[program] =  5
+	priority = 3
+		program =  22
+			len programs[program] =  6
+	priority = 4
+		program =  13
+			len programs[program] =  5
+	priority = 5
+		program =  14
+			len programs[program] =  6
+
+applicant =  188 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  1
+		 ['Male', 'Male', 'Male', 'Male']
+			1: ['109', '168', '176', '188']
+
+applicant =  189 (Female)
+	priority = 0
+		program =  31
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			31: ['1', '2', '4', '9', '189']
+
+applicant =  190 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  13
+			len programs[program] =  5
+	priority = 2
+		program =  23
+			len programs[program] =  5
+	priority = 3
+		program =  14
+			len programs[program] =  6
+	priority = 4
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  191 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  14
+			len programs[program] =  6
+	priority = 4
+		program =  20
+		 ['Male']
+			20: ['191']
+
+applicant =  192 (Female)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  17
+			len programs[program] =  5
+	priority = 4
+		program =  13
+			len programs[program] =  5
+	priority = 5
+		program =  16
+			len programs[program] =  6
+	priority = 6
+		program =  18
+			len programs[program] =  6
+	priority = 7
+		program =  14
+			len programs[program] =  6
+	priority = 8
+		program =  19
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			19: ['32', '99', '122', '124', '192']
+
+applicant =  193 (Male)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  16
+			len programs[program] =  6
+	priority = 4
+		program =  19
+			len programs[program] =  5
+	priority = 5
+		program =  20
+		 ['Male', 'Male']
+			20: ['191', '193']
+
+applicant =  194 (Male)
+	priority = 0
+		program =  19
+			len programs[program] =  5
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  20
+		 ['Male', 'Male', 'Male']
+			20: ['191', '193', '194']
+
+applicant =  195 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  20
+		 ['Male', 'Male', 'Male', 'Male']
+			20: ['191', '193', '194', '195']
+
+applicant =  198 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  11
+			len programs[program] =  5
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  21
+			len programs[program] =  5
+	priority = 4
+		program =  15
+			len programs[program] =  5
+	priority = 5
+		program =  19
+			len programs[program] =  5
+	priority = 6
+		program =  13
+			len programs[program] =  5
+	priority = 7
+		program =  23
+			len programs[program] =  5
+	priority = 8
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 9
+		program =  18
+			len programs[program] =  6
+	priority = 10
+		program =  22
+			len programs[program] =  6
+	priority = 11
+		program =  16
+			len programs[program] =  6
+	priority = 12
+		program =  20
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			20: ['191', '193', '194', '195', '198']
+
+applicant =  199 (Female)
+	priority = 0
+		program =  1
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			1: ['109', '168', '176', '188', '199']
+
+applicant =  200 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  201 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+
+applicant =  202 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  19
+			len programs[program] =  5
+	priority = 3
+		program =  20
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  205 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  13
+			len programs[program] =  5
+	priority = 3
+		program =  14
+			len programs[program] =  6
+	priority = 4
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  206 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  40
+			len programs[program] =  6
+
+applicant =  207 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  39
+			len programs[program] =  5
+	priority = 4
+		program =  13
+			len programs[program] =  5
+	priority = 5
+		program =  40
+			len programs[program] =  6
+	priority = 6
+		program =  14
+			len programs[program] =  6
+
+applicant =  208 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  21
+			len programs[program] =  5
+	priority = 3
+		program =  22
+			len programs[program] =  6
+
+applicant =  209 (Female)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  18
+			len programs[program] =  6
+	priority = 4
+		program =  19
+			len programs[program] =  5
+	priority = 5
+		program =  20
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			20: ['191', '193', '194', '195', '198', '209']
+
+applicant =  211 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+
+applicant =  212 (Male)
+	priority = 0
+		program =  3
+		 ['Male', 'Male', 'Male']
+			3: ['142', '163', '212']
+
+applicant =  213 (Female)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  214 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  20
+			len programs[program] =  6
+
+applicant =  215 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  16
+			len programs[program] =  6
+	priority = 4
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 6
+		program =  13
+			len programs[program] =  5
+	priority = 7
+		program =  19
+			len programs[program] =  5
+	priority = 8
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  216 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  19
+			len programs[program] =  5
+	priority = 2
+		program =  35
+		 ['Male', 'Male']
+			35: ['160', '216']
+
+applicant =  217 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  218 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  219 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+		 ['Male', 'Male', 'Male', 'Male']
+			3: ['142', '163', '212', '219']
+
+applicant =  220 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  14
+			len programs[program] =  6
+	priority = 4
+		program =  20
+			len programs[program] =  6
+
+applicant =  221 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  222 (Female)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  223 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  11
+			len programs[program] =  5
+
+applicant =  224 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  23
+			len programs[program] =  5
+	priority = 3
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  225 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  2
+		 ['Male']
+			2: ['225']
+
+applicant =  226 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  227 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  14
+			len programs[program] =  6
+
+applicant =  229 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  230 (Female)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  18
+			len programs[program] =  6
+	priority = 4
+		program =  13
+			len programs[program] =  5
+
+applicant =  231 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  19
+			len programs[program] =  5
+	priority = 3
+		program =  20
+			len programs[program] =  6
+	priority = 4
+		program =  35
+		 ['Male', 'Male', 'Male']
+			35: ['160', '216', '231']
+
+applicant =  232 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  19
+			len programs[program] =  5
+	priority = 2
+		program =  20
+			len programs[program] =  6
+
+applicant =  233 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  27
+		 ['Male', 'Male']
+			27: ['134', '233']
+
+applicant =  234 (Female)
+	priority = 0
+		program =  43
+			len programs[program] =  5
+	priority = 1
+		program =  21
+			len programs[program] =  5
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  13
+			len programs[program] =  5
+	priority = 4
+		program =  39
+			len programs[program] =  5
+	priority = 5
+		program =  27
+		 ['Male', 'Male', 'Female']
+			27: ['134', '233', '234']
+
+applicant =  235 (Male)
+	priority = 0
+		program =  6
+		 ['Male']
+			6: ['235']
+
+applicant =  236 (Male)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  45
+		 ['Male', 'Male', 'Male', 'Male']
+			45: ['44', '98', '147', '236']
+
+applicant =  237 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  39
+			len programs[program] =  5
+	priority = 3
+		program =  40
+			len programs[program] =  6
+
+applicant =  238 (Female)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  41
+		 ['Male', 'Male', 'Female']
+			41: ['143', '151', '238']
+
+applicant =  239 (Male)
+	priority = 0
+		program =  34
+		 ['Male']
+			34: ['239']
+
+applicant =  241 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  19
+			len programs[program] =  5
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  242 (Male)
+	priority = 0
+		program =  23
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  19
+			len programs[program] =  5
+	priority = 4
+		program =  13
+			len programs[program] =  5
+	priority = 5
+		program =  17
+			len programs[program] =  5
+	priority = 6
+		program =  16
+			len programs[program] =  6
+	priority = 7
+		program =  18
+			len programs[program] =  6
+	priority = 8
+		program =  14
+			len programs[program] =  6
+
+applicant =  244 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  16
+			len programs[program] =  6
+	priority = 3
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  33
+		 ['Male']
+			33: ['244']
+
+applicant =  245 (Male)
+	priority = 0
+		program =  19
+			len programs[program] =  5
+	priority = 1
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  246 (Male)
+	priority = 0
+		program =  7
+		 ['Male']
+			7: ['246']
+
+applicant =  247 (Female)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  44
+		 ['Female']
+			44: ['247']
+
+applicant =  248 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  6
+		 ['Male', 'Male']
+			6: ['235', '248']
+
+applicant =  249 (Male)
+	priority = 0
+		program =  31
+			len programs[program] =  5
+	priority = 1
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			32: ['20', '87', '113', '180', '249']
+
+applicant =  250 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  251 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  5
+			len programs[program] =  5
+	priority = 2
+		program =  3
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  2
+		 ['Male', 'Male']
+			2: ['225', '251']
+
+applicant =  252 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+
+applicant =  253 (Female)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  13
+			len programs[program] =  5
+
+applicant =  254 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  21
+			len programs[program] =  5
+	priority = 3
+		program =  22
+			len programs[program] =  6
+	priority = 4
+		program =  40
+			len programs[program] =  6
+	priority = 5
+		program =  19
+			len programs[program] =  5
+	priority = 6
+		program =  20
+			len programs[program] =  6
+	priority = 7
+		program =  13
+			len programs[program] =  5
+	priority = 8
+		program =  14
+			len programs[program] =  6
+	priority = 9
+		program =  35
+		 ['Male', 'Male', 'Male', 'Male']
+			35: ['160', '216', '231', '254']
+
+applicant =  255 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  19
+			len programs[program] =  5
+	priority = 4
+		program =  20
+			len programs[program] =  6
+	priority = 5
+		program =  14
+			len programs[program] =  6
+
+applicant =  256 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  22
+			len programs[program] =  6
+	priority = 3
+		program =  14
+			len programs[program] =  6
+
+applicant =  257 (Male)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  45
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  46
+		 ['Male']
+			46: ['257']
+
+applicant =  258 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  22
+			len programs[program] =  6
+
+applicant =  259 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  22
+			len programs[program] =  6
+	priority = 5
+		program =  40
+			len programs[program] =  6
+	priority = 6
+		program =  13
+			len programs[program] =  5
+	priority = 7
+		program =  14
+			len programs[program] =  6
+	priority = 8
+		program =  16
+			len programs[program] =  6
+	priority = 9
+		program =  19
+			len programs[program] =  5
+	priority = 10
+		program =  20
+			len programs[program] =  6
+	priority = 11
+		program =  44
+		 ['Female', 'Male']
+			44: ['247', '259']
+
+applicant =  260 (Male)
+	priority = 0
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  22
+			len programs[program] =  6
+	priority = 3
+		program =  20
+			len programs[program] =  6
+	priority = 4
+		program =  40
+			len programs[program] =  6
+	priority = 5
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 6
+		program =  18
+			len programs[program] =  6
+	priority = 7
+		program =  19
+			len programs[program] =  5
+	priority = 8
+		program =  13
+			len programs[program] =  5
+	priority = 9
+		program =  16
+			len programs[program] =  6
+
+applicant =  261 (Female)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  13
+			len programs[program] =  5
+	priority = 2
+		program =  21
+			len programs[program] =  5
+	priority = 3
+		program =  18
+			len programs[program] =  6
+	priority = 4
+		program =  14
+			len programs[program] =  6
+
+applicant =  263 (Male)
+	priority = 0
+		program =  3
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  5
+			len programs[program] =  5
+
+applicant =  264 (Male)
+	priority = 0
+		program =  19
+			len programs[program] =  5
+	priority = 1
+		program =  35
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  14
+			len programs[program] =  6
+	priority = 4
+		program =  20
+			len programs[program] =  6
+	priority = 5
+		program =  36
+		 ['Male']
+			36: ['264']
+
+applicant =  265 (Male)
+	priority = 0
+		program =  31
+			len programs[program] =  5
+	priority = 1
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  266 (Male)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  45
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  21
+			len programs[program] =  5
+	priority = 3
+		program =  40
+			len programs[program] =  6
+
+applicant =  267 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  268 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+
+applicant =  269 (Male)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+
+applicant =  270 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  272 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  273 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male']
+			7: ['246', '273']
+
+applicant =  274 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  1
+			len programs[program] =  5
+	priority = 3
+		program =  2
+		 ['Male', 'Male', 'Male']
+			2: ['225', '251', '274']
+
+applicant =  276 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  14
+			len programs[program] =  6
+
+applicant =  277 (Female)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  278 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  279 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  6
+		 ['Male', 'Male', 'Male']
+			6: ['235', '248', '279']
+
+applicant =  280 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  19
+			len programs[program] =  5
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  282 (Female)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  23
+			len programs[program] =  5
+
+applicant =  283 (Female)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+
+applicant =  284 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  13
+			len programs[program] =  5
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  285 (Male)
+	priority = 0
+		program =  19
+			len programs[program] =  5
+	priority = 1
+		program =  20
+			len programs[program] =  6
+
+applicant =  286 (Male)
+	priority = 0
+		program =  31
+			len programs[program] =  5
+	priority = 1
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  288 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  13
+			len programs[program] =  5
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  289 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  20
+			len programs[program] =  6
+	priority = 3
+		program =  35
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  290 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  19
+			len programs[program] =  5
+	priority = 3
+		program =  22
+			len programs[program] =  6
+	priority = 4
+		program =  44
+		 ['Female', 'Male', 'Male']
+			44: ['247', '259', '290']
+
+applicant =  291 (Male)
+	priority = 0
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  27
+		 ['Male', 'Male', 'Female', 'Male']
+			27: ['134', '233', '234', '291']
+
+applicant =  292 (Male)
+	priority = 0
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  294 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  295 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  2
+		 ['Male', 'Male', 'Male', 'Male']
+			2: ['225', '251', '274', '295']
+
+applicant =  296 (Male)
+	priority = 0
+		program =  3
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  1
+			len programs[program] =  5
+	priority = 2
+		program =  5
+			len programs[program] =  5
+	priority = 3
+		program =  4
+		 ['Male']
+			4: ['296']
+
+applicant =  297 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  19
+			len programs[program] =  5
+	priority = 4
+		program =  20
+			len programs[program] =  6
+	priority = 5
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 6
+		program =  39
+			len programs[program] =  5
+	priority = 7
+		program =  43
+			len programs[program] =  5
+	priority = 8
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 9
+		program =  11
+			len programs[program] =  5
+	priority = 10
+		program =  13
+			len programs[program] =  5
+
+applicant =  299 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male']
+			7: ['246', '273', '299']
+
+applicant =  300 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  14
+			len programs[program] =  6
+
+applicant =  302 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  303 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  304 (Female)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  45
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			45: ['44', '98', '147', '236', '304']
+
+applicant =  305 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  18
+			len programs[program] =  6
+	priority = 4
+		program =  22
+			len programs[program] =  6
+	priority = 5
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 6
+		program =  14
+			len programs[program] =  6
+	priority = 7
+		program =  19
+			len programs[program] =  5
+
+applicant =  306 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  14
+			len programs[program] =  6
+
+applicant =  307 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  308 (Male)
+	priority = 0
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  44
+		 ['Female', 'Male', 'Male', 'Male']
+			44: ['247', '259', '290', '308']
+
+applicant =  309 (Female)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  13
+			len programs[program] =  5
+	priority = 4
+		program =  14
+			len programs[program] =  6
+
+applicant =  310 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+
+applicant =  311 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  2
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			2: ['225', '251', '274', '295', '311']
+
+applicant =  312 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  2
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  5
+			len programs[program] =  5
+	priority = 3
+		program =  3
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  4
+		 ['Male', 'Male']
+			4: ['296', '312']
+
+applicant =  313 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  23
+			len programs[program] =  5
+	priority = 2
+		program =  11
+			len programs[program] =  5
+	priority = 3
+		program =  22
+			len programs[program] =  6
+	priority = 4
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 6
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  314 (Female)
+	priority = 0
+		program =  25
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			25: ['22', '43', '61', '77', '314']
+
+applicant =  316 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  317 (Female)
+	priority = 0
+		program =  3
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			3: ['142', '163', '212', '219', '317']
+
+applicant =  318 (Female)
+	priority = 0
+		program =  43
+			len programs[program] =  5
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  45
+			len programs[program] =  5
+	priority = 3
+		program =  41
+		 ['Male', 'Male', 'Female', 'Female']
+			41: ['143', '151', '238', '318']
+
+applicant =  319 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  16
+			len programs[program] =  6
+	priority = 4
+		program =  19
+			len programs[program] =  5
+	priority = 5
+		program =  20
+			len programs[program] =  6
+	priority = 6
+		program =  43
+			len programs[program] =  5
+
+applicant =  320 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  39
+			len programs[program] =  5
+	priority = 3
+		program =  44
+		 ['Female', 'Male', 'Male', 'Male', 'Male']
+			44: ['247', '259', '290', '308', '320']
+
+applicant =  322 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  14
+			len programs[program] =  6
+	priority = 4
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  20
+			len programs[program] =  6
+
+applicant =  325 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  19
+			len programs[program] =  5
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  326 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  1
+			len programs[program] =  5
+	priority = 3
+		program =  6
+		 ['Male', 'Male', 'Male', 'Male']
+			6: ['235', '248', '279', '326']
+
+applicant =  328 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  25
+			len programs[program] =  5
+
+applicant =  329 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  1
+			len programs[program] =  5
+	priority = 3
+		program =  6
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			6: ['235', '248', '279', '326', '329']
+
+applicant =  330 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  331 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+
+applicant =  332 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  333 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male']
+			7: ['246', '273', '299', '333']
+
+applicant =  334 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  335 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  336 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  337 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  2
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  338 (Male)
+	priority = 0
+		program =  6
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  4
+		 ['Male', 'Male', 'Male']
+			4: ['296', '312', '338']
+
+applicant =  340 (Male)
+	priority = 0
+		program =  19
+			len programs[program] =  5
+	priority = 1
+		program =  41
+		 ['Male', 'Male', 'Female', 'Female', 'Male']
+			41: ['143', '151', '238', '318', '340']
+
+applicant =  341 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  19
+			len programs[program] =  5
+	priority = 3
+		program =  43
+			len programs[program] =  5
+	priority = 4
+		program =  35
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  342 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  43
+			len programs[program] =  5
+	priority = 4
+		program =  25
+			len programs[program] =  5
+	priority = 5
+		program =  19
+			len programs[program] =  5
+	priority = 6
+		program =  44
+		 ['Female', 'Male', 'Male', 'Male', 'Male', 'Male']
+			44: ['247', '259', '290', '308', '320', '342']
+
+applicant =  343 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  19
+			len programs[program] =  5
+	priority = 2
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  344 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+	priority = 3
+		program =  43
+			len programs[program] =  5
+
+applicant =  345 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  346 (Male)
+	priority = 0
+		program =  31
+			len programs[program] =  5
+	priority = 1
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  30
+		 ['Male', 'Male']
+			30: ['153', '346']
+
+applicant =  347 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  19
+			len programs[program] =  5
+	priority = 2
+		program =  41
+			len programs[program] =  5
+
+applicant =  348 (Female)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  349 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  8
+		 ['Male']
+			8: ['349']
+
+applicant =  351 (Female)
+	priority = 0
+		program =  45
+			len programs[program] =  5
+	priority = 1
+		program =  46
+		 ['Male', 'Female']
+			46: ['257', '351']
+
+applicant =  352 (Male)
+	priority = 0
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  26
+		 ['Male']
+			26: ['352']
+
+applicant =  353 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  2
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  3
+			len programs[program] =  5
+	priority = 3
+		program =  4
+		 ['Male', 'Male', 'Male', 'Male']
+			4: ['296', '312', '338', '353']
+
+applicant =  355 (Female)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  44
+			len programs[program] =  6
+	priority = 3
+		program =  41
+			len programs[program] =  5
+	priority = 4
+		program =  45
+			len programs[program] =  5
+
+applicant =  358 (Male)
+	priority = 0
+		program =  45
+			len programs[program] =  5
+	priority = 1
+		program =  46
+		 ['Male', 'Female', 'Male']
+			46: ['257', '351', '358']
+
+applicant =  359 (Female)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+	priority = 1
+		program =  45
+			len programs[program] =  5
+	priority = 2
+		program =  43
+			len programs[program] =  5
+
+applicant =  360 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  19
+			len programs[program] =  5
+	priority = 2
+		program =  43
+			len programs[program] =  5
+	priority = 3
+		program =  44
+			len programs[program] =  6
+	priority = 4
+		program =  26
+		 ['Male', 'Male']
+			26: ['352', '360']
+
+applicant =  361 (Male)
+	priority = 0
+		program =  27
+		 ['Male', 'Male', 'Female', 'Male', 'Male']
+			27: ['134', '233', '234', '291', '361']
+
+applicant =  365 (Female)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  23
+			len programs[program] =  5
+	priority = 4
+		program =  16
+			len programs[program] =  6
+	priority = 5
+		program =  24
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			24: ['102', '169', '170', '178', '179', '365']
+
+applicant =  366 (Male)
+	priority = 0
+		program =  31
+			len programs[program] =  5
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  26
+		 ['Male', 'Male', 'Male']
+			26: ['352', '360', '366']
+
+applicant =  368 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  18
+			len programs[program] =  6
+	priority = 4
+		program =  14
+			len programs[program] =  6
+	priority = 5
+		program =  10
+			len programs[program] =  6
+	priority = 6
+		program =  39
+			len programs[program] =  5
+	priority = 7
+		program =  19
+			len programs[program] =  5
+	priority = 8
+		program =  40
+			len programs[program] =  6
+	priority = 9
+		program =  20
+			len programs[program] =  6
+
+applicant =  369 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  370 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  11
+			len programs[program] =  5
+	priority = 3
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  23
+			len programs[program] =  5
+	priority = 5
+		program =  24
+			len programs[program] =  6
+	priority = 6
+		program =  39
+			len programs[program] =  5
+	priority = 7
+		program =  40
+			len programs[program] =  6
+
+applicant =  371 (Male)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+	priority = 1
+		program =  43
+			len programs[program] =  5
+	priority = 2
+		program =  44
+			len programs[program] =  6
+
+applicant =  373 (Male)
+	priority = 0
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  26
+		 ['Male', 'Male', 'Male', 'Male']
+			26: ['352', '360', '366', '373']
+
+applicant =  374 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  375 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  19
+			len programs[program] =  5
+	priority = 2
+		program =  27
+			len programs[program] =  5
+
+applicant =  376 (Female)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  2
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			2: ['225', '251', '274', '295', '311', '376']
+
+applicant =  377 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  2
+			len programs[program] =  6
+	priority = 3
+		program =  4
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			4: ['296', '312', '338', '353', '377']
+
+applicant =  378 (Male)
+	priority = 0
+		program =  43
+			len programs[program] =  5
+	priority = 1
+		program =  35
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  379 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+
+applicant =  380 (Male)
+	priority = 0
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  26
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			26: ['352', '360', '366', '373', '380']
+
+applicant =  381 (Female)
+	priority = 0
+		program =  46
+		 ['Male', 'Female', 'Male', 'Female']
+			46: ['257', '351', '358', '381']
+
+applicant =  382 (Male)
+	priority = 0
+		program =  3
+			len programs[program] =  5
+	priority = 1
+		program =  4
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  385 (Male)
+	priority = 0
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  26
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  30
+		 ['Male', 'Male', 'Male']
+			30: ['153', '346', '385']
+
+applicant =  386 (Male)
+	priority = 0
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  31
+			len programs[program] =  5
+	priority = 3
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male']
+			30: ['153', '346', '385', '386']
+
+applicant =  387 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  14
+			len programs[program] =  6
+
+applicant =  388 (Female)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  390 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  20
+			len programs[program] =  6
+
+applicant =  391 (Male)
+	priority = 0
+		program =  45
+			len programs[program] =  5
+	priority = 1
+		program =  39
+			len programs[program] =  5
+	priority = 2
+		program =  46
+		 ['Male', 'Female', 'Male', 'Female', 'Male']
+			46: ['257', '351', '358', '381', '391']
+
+applicant =  393 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  394 (Female)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  15
+			len programs[program] =  5
+	priority = 2
+		program =  16
+			len programs[program] =  6
+	priority = 3
+		program =  17
+			len programs[program] =  5
+	priority = 4
+		program =  18
+			len programs[program] =  6
+	priority = 5
+		program =  21
+			len programs[program] =  5
+	priority = 6
+		program =  22
+			len programs[program] =  6
+	priority = 7
+		program =  13
+			len programs[program] =  5
+	priority = 8
+		program =  19
+			len programs[program] =  5
+	priority = 9
+		program =  43
+			len programs[program] =  5
+
+applicant =  395 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+	priority = 1
+		program =  33
+		 ['Male', 'Male']
+			33: ['244', '395']
+
+applicant =  396 (Female)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+
+applicant =  397 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  8
+		 ['Male', 'Male']
+			8: ['349', '397']
+
+applicant =  399 (Male)
+	priority = 0
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			30: ['153', '346', '385', '386', '399']
+
+applicant =  401 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  39
+			len programs[program] =  5
+	priority = 3
+		program =  40
+			len programs[program] =  6
+	priority = 4
+		program =  43
+			len programs[program] =  5
+	priority = 5
+		program =  41
+			len programs[program] =  5
+	priority = 6
+		program =  19
+			len programs[program] =  5
+	priority = 7
+		program =  44
+			len programs[program] =  6
+
+applicant =  403 (Female)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  40
+			len programs[program] =  6
+	priority = 4
+		program =  20
+			len programs[program] =  6
+	priority = 5
+		program =  34
+		 ['Male', 'Female']
+			34: ['239', '403']
+
+applicant =  404 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+	priority = 3
+		program =  35
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  33
+		 ['Male', 'Male', 'Male']
+			33: ['244', '395', '404']
+
+applicant =  405 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  406 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  44
+			len programs[program] =  6
+	priority = 2
+		program =  19
+			len programs[program] =  5
+	priority = 3
+		program =  20
+			len programs[program] =  6
+	priority = 4
+		program =  35
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  36
+		 ['Male', 'Male']
+			36: ['264', '406']
+
+applicant =  407 (Male)
+	priority = 0
+		program =  6
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  4
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  2
+			len programs[program] =  6
+
+applicant =  408 (Male)
+	priority = 0
+		program =  25
+			len programs[program] =  5
+	priority = 1
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  27
+			len programs[program] =  5
+	priority = 3
+		program =  33
+		 ['Male', 'Male', 'Male', 'Male']
+			33: ['244', '395', '404', '408']
+
+applicant =  409 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  6
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  4
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  2
+			len programs[program] =  6
+
+applicant =  410 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+
+applicant =  411 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  33
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  34
+		 ['Male', 'Female', 'Male']
+			34: ['239', '403', '411']
+
+applicant =  413 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  414 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  1
+			len programs[program] =  5
+	priority = 2
+		program =  3
+			len programs[program] =  5
+	priority = 3
+		program =  6
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  2
+			len programs[program] =  6
+	priority = 5
+		program =  4
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  416 (Male)
+	priority = 0
+		program =  6
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  4
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  5
+			len programs[program] =  5
+	priority = 3
+		program =  3
+			len programs[program] =  5
+
+applicant =  417 (Male)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  45
+			len programs[program] =  5
+	priority = 2
+		program =  46
+		 ['Male', 'Female', 'Male', 'Female', 'Male', 'Male']
+			46: ['257', '351', '358', '381', '391', '417']
+
+applicant =  419 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  420 (Male)
+	priority = 0
+		program =  11
+			len programs[program] =  5
+
+applicant =  421 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  13
+			len programs[program] =  5
+	priority = 3
+		program =  14
+			len programs[program] =  6
+	priority = 4
+		program =  19
+			len programs[program] =  5
+	priority = 5
+		program =  20
+			len programs[program] =  6
+	priority = 6
+		program =  35
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 7
+		program =  36
+		 ['Male', 'Male', 'Male']
+			36: ['264', '406', '421']
+
+applicant =  422 (Female)
+	priority = 0
+		program =  45
+			len programs[program] =  5
+	priority = 1
+		program =  46
+			len programs[program] =  6
+	priority = 2
+		program =  44
+			len programs[program] =  6
+	priority = 3
+		program =  40
+			len programs[program] =  6
+	priority = 4
+		program =  20
+			len programs[program] =  6
+
+applicant =  423 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  424 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  16
+			len programs[program] =  6
+	priority = 3
+		program =  18
+			len programs[program] =  6
+	priority = 4
+		program =  14
+			len programs[program] =  6
+	priority = 5
+		program =  40
+			len programs[program] =  6
+
+applicant =  425 (Male)
+	priority = 0
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  24
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  40
+			len programs[program] =  6
+	priority = 4
+		program =  19
+			len programs[program] =  5
+	priority = 5
+		program =  20
+			len programs[program] =  6
+	priority = 6
+		program =  43
+			len programs[program] =  5
+	priority = 7
+		program =  44
+			len programs[program] =  6
+
+applicant =  426 (Female)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  427 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  428 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  5
+			len programs[program] =  5
+	priority = 3
+		program =  2
+			len programs[program] =  6
+	priority = 4
+		program =  4
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  6
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  429 (Female)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  5
+			len programs[program] =  5
+	priority = 2
+		program =  3
+			len programs[program] =  5
+	priority = 3
+		program =  2
+			len programs[program] =  6
+	priority = 4
+		program =  6
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			6: ['235', '248', '279', '326', '329', '429']
+
+applicant =  432 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  8
+		 ['Male', 'Male', 'Male']
+			8: ['349', '397', '432']
+
+applicant =  434 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male']
+			8: ['349', '397', '432', '434']
+
+applicant =  435 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  2
+			len programs[program] =  6
+
+applicant =  436 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+
+applicant =  437 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  438 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  2
+			len programs[program] =  6
+	priority = 3
+		program =  6
+			len programs[program] =  6
+
+applicant =  440 (Female)
+	priority = 0
+		program =  31
+			len programs[program] =  5
+	priority = 1
+		program =  32
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			32: ['20', '87', '113', '180', '249', '440']
+
+applicant =  444 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  22
+			len programs[program] =  6
+	priority = 3
+		program =  24
+			len programs[program] =  6
+	priority = 4
+		program =  40
+			len programs[program] =  6
+	priority = 5
+		program =  20
+			len programs[program] =  6
+	priority = 6
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  445 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  446 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  22
+			len programs[program] =  6
+	priority = 4
+		program =  20
+			len programs[program] =  6
+
+applicant =  447 (Male)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+			len programs[program] =  6
+
+applicant =  450 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  451 (Female)
+	priority = 0
+		program =  3
+			len programs[program] =  5
+	priority = 1
+		program =  4
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			4: ['296', '312', '338', '353', '377', '451']
+
+applicant =  453 (Male)
+	priority = 0
+		program =  11
+			len programs[program] =  5
+	priority = 1
+		program =  19
+			len programs[program] =  5
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  10
+			len programs[program] =  6
+	priority = 4
+		program =  22
+			len programs[program] =  6
+	priority = 5
+		program =  16
+			len programs[program] =  6
+	priority = 6
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 7
+		program =  24
+			len programs[program] =  6
+	priority = 8
+		program =  20
+			len programs[program] =  6
+	priority = 9
+		program =  14
+			len programs[program] =  6
+
+applicant =  454 (Female)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+	priority = 1
+		program =  45
+			len programs[program] =  5
+	priority = 2
+		program =  43
+			len programs[program] =  5
+
+applicant =  455 (Female)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  45
+			len programs[program] =  5
+	priority = 3
+		program =  21
+			len programs[program] =  5
+	priority = 4
+		program =  43
+			len programs[program] =  5
+	priority = 5
+		program =  19
+			len programs[program] =  5
+	priority = 6
+		program =  46
+			len programs[program] =  6
+	priority = 7
+		program =  22
+			len programs[program] =  6
+	priority = 8
+		program =  44
+			len programs[program] =  6
+	priority = 9
+		program =  41
+			len programs[program] =  5
+	priority = 10
+		program =  20
+			len programs[program] =  6
+	priority = 11
+		program =  42
+		 ['Female']
+			42: ['455']
+
+applicant =  456 (Female)
+	priority = 0
+		program =  46
+			len programs[program] =  6
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  43
+			len programs[program] =  5
+	priority = 3
+		program =  44
+			len programs[program] =  6
+	priority = 4
+		program =  41
+			len programs[program] =  5
+	priority = 5
+		program =  42
+		 ['Female', 'Female']
+			42: ['455', '456']
+
+applicant =  459 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+	priority = 1
+		program =  13
+			len programs[program] =  5
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  19
+			len programs[program] =  5
+	priority = 4
+		program =  20
+			len programs[program] =  6
+
+applicant =  460 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+
+applicant =  461 (Male)
+	priority = 0
+		program =  26
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  462 (Male)
+	priority = 0
+		program =  3
+			len programs[program] =  5
+	priority = 1
+		program =  4
+			len programs[program] =  6
+
+applicant =  463 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			8: ['349', '397', '432', '434', '463']
+
+applicant =  464 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  26
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  465 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  466 (Male)
+	priority = 0
+		program =  17
+			len programs[program] =  5
+	priority = 1
+		program =  21
+			len programs[program] =  5
+	priority = 2
+		program =  23
+			len programs[program] =  5
+	priority = 3
+		program =  19
+			len programs[program] =  5
+	priority = 4
+		program =  11
+			len programs[program] =  5
+	priority = 5
+		program =  25
+			len programs[program] =  5
+
+applicant =  467 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  468 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  2
+			len programs[program] =  6
+
+applicant =  469 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  24
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  41
+			len programs[program] =  5
+
+applicant =  470 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  39
+			len programs[program] =  5
+	priority = 2
+		program =  40
+			len programs[program] =  6
+
+applicant =  471 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+
+applicant =  472 (Female)
+	priority = 0
+		program =  25
+			len programs[program] =  5
+	priority = 1
+		program =  29
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			29: ['74', '93', '100', '115', '472']
+
+applicant =  473 (Female)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  11
+			len programs[program] =  5
+	priority = 2
+		program =  13
+			len programs[program] =  5
+	priority = 3
+		program =  19
+			len programs[program] =  5
+	priority = 4
+		program =  12
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			12: ['68', '79', '82', '83', '92', '473']
+
+applicant =  474 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  20
+			len programs[program] =  6
+
+applicant =  475 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  22
+			len programs[program] =  6
+	priority = 3
+		program =  20
+			len programs[program] =  6
+	priority = 4
+		program =  40
+			len programs[program] =  6
+	priority = 5
+		program =  14
+			len programs[program] =  6
+
+applicant =  476 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  6
+			len programs[program] =  6
+
+applicant =  478 (Male)
+	priority = 0
+		program =  2
+			len programs[program] =  6
+	priority = 1
+		program =  6
+			len programs[program] =  6
+	priority = 2
+		program =  4
+			len programs[program] =  6
+
+applicant =  479 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  480 (Male)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+
+applicant =  481 (Female)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  1
+			len programs[program] =  5
+
+applicant =  482 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  12
+			len programs[program] =  6
+
+applicant =  483 (Male)
+	priority = 0
+		program =  19
+			len programs[program] =  5
+	priority = 1
+		program =  11
+			len programs[program] =  5
+	priority = 2
+		program =  13
+			len programs[program] =  5
+	priority = 3
+		program =  23
+			len programs[program] =  5
+	priority = 4
+		program =  20
+			len programs[program] =  6
+
+applicant =  484 (Female)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  1
+			len programs[program] =  5
+	priority = 3
+		program =  6
+			len programs[program] =  6
+	priority = 4
+		program =  4
+			len programs[program] =  6
+	priority = 5
+		program =  2
+			len programs[program] =  6
+
+applicant =  485 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+	priority = 1
+		program =  12
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+
+applicant =  487 (Male)
+	priority = 0
+		program =  43
+			len programs[program] =  5
+	priority = 1
+		program =  44
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  41
+			len programs[program] =  5
+	priority = 4
+		program =  42
+		 ['Female', 'Female', 'Male']
+			42: ['455', '456', '487']
+
+applicant =  488 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  24
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+
+applicant =  489 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  2
+			len programs[program] =  6
+	priority = 2
+		program =  3
+			len programs[program] =  5
+	priority = 3
+		program =  5
+			len programs[program] =  5
+	priority = 4
+		program =  4
+			len programs[program] =  6
+	priority = 5
+		program =  6
+			len programs[program] =  6
+
+applicant =  490 (Female)
+	priority = 0
+		program =  27
+			len programs[program] =  5
+	priority = 1
+		program =  41
+			len programs[program] =  5
+	priority = 2
+		program =  43
+			len programs[program] =  5
+	priority = 3
+		program =  35
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			35: ['160', '216', '231', '254', '490']
+
+applicant =  491 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  20
+			len programs[program] =  6
+	priority = 2
+		program =  41
+			len programs[program] =  5
+
+applicant =  492 (Female)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  12
+			len programs[program] =  6
+
+applicant =  493 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  27
+			len programs[program] =  5
+	priority = 3
+		program =  28
+		 ['Male']
+			28: ['493']
+
+applicant =  495 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  496 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  19
+			len programs[program] =  5
+	priority = 3
+		program =  35
+			len programs[program] =  5
+	priority = 4
+		program =  33
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  20
+			len programs[program] =  6
+	priority = 6
+		program =  36
+		 ['Male', 'Male', 'Male', 'Male']
+			36: ['264', '406', '421', '496']
+
+applicant =  497 (Female)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  16
+			len programs[program] =  6
+	priority = 4
+		program =  44
+			len programs[program] =  6
+	priority = 5
+		program =  12
+			len programs[program] =  6
+
+applicant =  498 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  499 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+
+applicant =  500 (Female)
+	priority = 0
+		program =  31
+			len programs[program] =  5
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  29
+			len programs[program] =  5
+	priority = 3
+		program =  27
+			len programs[program] =  5
+
+applicant =  501 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  502 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  13
+			len programs[program] =  5
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  19
+			len programs[program] =  5
+	priority = 4
+		program =  20
+			len programs[program] =  6
+
+applicant =  503 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  12
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+
+applicant =  504 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  5
+			len programs[program] =  5
+	priority = 3
+		program =  2
+			len programs[program] =  6
+	priority = 4
+		program =  4
+			len programs[program] =  6
+	priority = 5
+		program =  6
+			len programs[program] =  6
+
+applicant =  505 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  35
+			len programs[program] =  5
+	priority = 3
+		program =  24
+			len programs[program] =  6
+
+applicant =  506 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  508 (Female)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  509 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  2
+			len programs[program] =  6
+	priority = 2
+		program =  6
+			len programs[program] =  6
+	priority = 3
+		program =  5
+			len programs[program] =  5
+	priority = 4
+		program =  3
+			len programs[program] =  5
+	priority = 5
+		program =  4
+			len programs[program] =  6
+	priority = 6
+		program =  19
+			len programs[program] =  5
+	priority = 7
+		program =  20
+			len programs[program] =  6
+	priority = 8
+		program =  35
+			len programs[program] =  5
+	priority = 9
+		program =  36
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			36: ['264', '406', '421', '496', '509']
+
+applicant =  511 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+
+applicant =  512 (Male)
+	priority = 0
+		program =  12
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  22
+			len programs[program] =  6
+
+applicant =  513 (Female)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  515 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+	priority = 1
+		program =  34
+		 ['Male', 'Female', 'Male', 'Male']
+			34: ['239', '403', '411', '515']
+
+applicant =  518 (Female)
+	priority = 0
+		program =  46
+			len programs[program] =  6
+	priority = 1
+		program =  44
+			len programs[program] =  6
+	priority = 2
+		program =  22
+			len programs[program] =  6
+
+applicant =  519 (Female)
+	priority = 0
+		program =  45
+			len programs[program] =  5
+	priority = 1
+		program =  20
+			len programs[program] =  6
+	priority = 2
+		program =  44
+			len programs[program] =  6
+	priority = 3
+		program =  46
+			len programs[program] =  6
+
+applicant =  521 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  29
+			len programs[program] =  5
+	priority = 3
+		program =  26
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  522 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  12
+			len programs[program] =  6
+	priority = 4
+		program =  24
+			len programs[program] =  6
+	priority = 5
+		program =  22
+			len programs[program] =  6
+
+applicant =  523 (Female)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  1
+			len programs[program] =  5
+	priority = 3
+		program =  6
+			len programs[program] =  6
+	priority = 4
+		program =  4
+			len programs[program] =  6
+	priority = 5
+		program =  2
+			len programs[program] =  6
+
+applicant =  524 (Female)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  13
+			len programs[program] =  5
+	priority = 2
+		program =  17
+			len programs[program] =  5
+	priority = 3
+		program =  14
+			len programs[program] =  6
+	priority = 4
+		program =  18
+			len programs[program] =  6
+
+applicant =  525 (Female)
+	priority = 0
+		program =  12
+			len programs[program] =  6
+
+applicant =  526 (Male)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  1
+			len programs[program] =  5
+	priority = 2
+		program =  3
+			len programs[program] =  5
+	priority = 3
+		program =  6
+			len programs[program] =  6
+	priority = 4
+		program =  2
+			len programs[program] =  6
+	priority = 5
+		program =  4
+			len programs[program] =  6
+
+applicant =  527 (Female)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+
+applicant =  528 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  529 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  530 (Female)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+	priority = 1
+		program =  45
+			len programs[program] =  5
+	priority = 2
+		program =  46
+			len programs[program] =  6
+	priority = 3
+		program =  43
+			len programs[program] =  5
+	priority = 4
+		program =  44
+			len programs[program] =  6
+	priority = 5
+		program =  20
+			len programs[program] =  6
+	priority = 6
+		program =  41
+			len programs[program] =  5
+
+applicant =  531 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  2
+			len programs[program] =  6
+	priority = 2
+		program =  4
+			len programs[program] =  6
+
+applicant =  532 (Female)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  10
+			len programs[program] =  6
+
+applicant =  533 (Male)
+	priority = 0
+		program =  3
+			len programs[program] =  5
+	priority = 1
+		program =  1
+			len programs[program] =  5
+	priority = 2
+		program =  6
+			len programs[program] =  6
+	priority = 3
+		program =  4
+			len programs[program] =  6
+	priority = 4
+		program =  2
+			len programs[program] =  6
+
+applicant =  534 (Female)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  1
+			len programs[program] =  5
+	priority = 2
+		program =  3
+			len programs[program] =  5
+	priority = 3
+		program =  2
+			len programs[program] =  6
+	priority = 4
+		program =  4
+			len programs[program] =  6
+
+applicant =  535 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  26
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  29
+			len programs[program] =  5
+
+applicant =  537 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  2
+			len programs[program] =  6
+
+applicant =  538 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+
+applicant =  539 (Male)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  16
+			len programs[program] =  6
+	priority = 4
+		program =  13
+			len programs[program] =  5
+	priority = 5
+		program =  14
+			len programs[program] =  6
+
+applicant =  540 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  3
+			len programs[program] =  5
+
+applicant =  543 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  545 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+	priority = 3
+		program =  33
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  41
+			len programs[program] =  5
+	priority = 5
+		program =  44
+			len programs[program] =  6
+	priority = 6
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 7
+		program =  36
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  546 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+
+applicant =  547 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  548 (Male)
+	priority = 0
+		program =  32
+			len programs[program] =  6
+	priority = 1
+		program =  29
+			len programs[program] =  5
+	priority = 2
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  26
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  549 (Male)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  42
+		 ['Female', 'Female', 'Male', 'Male']
+			42: ['455', '456', '487', '549']
+
+applicant =  550 (Male)
+	priority = 0
+		program =  2
+			len programs[program] =  6
+	priority = 1
+		program =  6
+			len programs[program] =  6
+	priority = 2
+		program =  4
+			len programs[program] =  6
+
+applicant =  551 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+
+applicant =  554 (Male)
+	priority = 0
+		program =  25
+			len programs[program] =  5
+	priority = 1
+		program =  29
+			len programs[program] =  5
+	priority = 2
+		program =  26
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  27
+			len programs[program] =  5
+	priority = 4
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  28
+		 ['Male', 'Male']
+			28: ['493', '554']
+
+applicant =  555 (Male)
+	priority = 0
+		program =  3
+			len programs[program] =  5
+	priority = 1
+		program =  6
+			len programs[program] =  6
+	priority = 2
+		program =  4
+			len programs[program] =  6
+	priority = 3
+		program =  2
+			len programs[program] =  6
+
+applicant =  558 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  12
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+
+applicant =  560 (Male)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  46
+			len programs[program] =  6
+
+applicant =  561 (Female)
+	priority = 0
+		program =  19
+			len programs[program] =  5
+	priority = 1
+		program =  41
+			len programs[program] =  5
+	priority = 2
+		program =  35
+			len programs[program] =  5
+	priority = 3
+		program =  21
+			len programs[program] =  5
+	priority = 4
+		program =  43
+			len programs[program] =  5
+	priority = 5
+		program =  45
+			len programs[program] =  5
+
+applicant =  562 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  563 (Female)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  19
+			len programs[program] =  5
+	priority = 2
+		program =  33
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			33: ['244', '395', '404', '408', '563']
+
+applicant =  564 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  565 (Male)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  43
+			len programs[program] =  5
+	priority = 3
+		program =  44
+			len programs[program] =  6
+	priority = 4
+		program =  35
+			len programs[program] =  5
+
+applicant =  566 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  19
+			len programs[program] =  5
+	priority = 4
+		program =  20
+			len programs[program] =  6
+	priority = 5
+		program =  35
+			len programs[program] =  5
+
+applicant =  567 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  568 (Female)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  20
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+
+applicant =  569 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+	priority = 3
+		program =  24
+			len programs[program] =  6
+	priority = 4
+		program =  12
+			len programs[program] =  6
+	priority = 5
+		program =  44
+			len programs[program] =  6
+
+applicant =  570 (Male)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  35
+			len programs[program] =  5
+
+applicant =  571 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  44
+			len programs[program] =  6
+	priority = 2
+		program =  36
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  573 (Female)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  26
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			26: ['352', '360', '366', '373', '380', '573']
+
+applicant =  574 (Male)
+	priority = 0
+		program =  37
+		 ['Male']
+			37: ['574']
+
+applicant =  575 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  576 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+
+applicant =  579 (Female)
+	priority = 0
+		program =  43
+			len programs[program] =  5
+	priority = 1
+		program =  44
+			len programs[program] =  6
+
+applicant =  580 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  581 (Male)
+	priority = 0
+		program =  12
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  16
+			len programs[program] =  6
+	priority = 3
+		program =  22
+			len programs[program] =  6
+
+applicant =  583 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  26
+			len programs[program] =  6
+	priority = 3
+		program =  27
+			len programs[program] =  5
+	priority = 4
+		program =  28
+		 ['Male', 'Male', 'Male']
+			28: ['493', '554', '583']
+
+applicant =  585 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  6
+			len programs[program] =  6
+	priority = 3
+		program =  2
+			len programs[program] =  6
+	priority = 4
+		program =  4
+			len programs[program] =  6
+
+applicant =  586 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  587 (Male)
+	priority = 0
+		program =  9
+			len programs[program] =  5
+	priority = 1
+		program =  10
+			len programs[program] =  6
+	priority = 2
+		program =  15
+			len programs[program] =  5
+	priority = 3
+		program =  16
+			len programs[program] =  6
+
+applicant =  588 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  589 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+
+applicant =  591 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+	priority = 1
+		program =  14
+			len programs[program] =  6
+
+applicant =  592 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  23
+			len programs[program] =  5
+	priority = 2
+		program =  24
+			len programs[program] =  6
+	priority = 3
+		program =  12
+			len programs[program] =  6
+	priority = 4
+		program =  16
+			len programs[program] =  6
+
+applicant =  593 (Female)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+
+applicant =  594 (Male)
+	priority = 0
+		program =  35
+			len programs[program] =  5
+	priority = 1
+		program =  36
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  20
+			len programs[program] =  6
+
+applicant =  595 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  20
+			len programs[program] =  6
+
+applicant =  596 (Male)
+	priority = 0
+		program =  31
+			len programs[program] =  5
+	priority = 1
+		program =  32
+			len programs[program] =  6
+	priority = 2
+		program =  29
+			len programs[program] =  5
+	priority = 3
+		program =  25
+			len programs[program] =  5
+	priority = 4
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 5
+		program =  26
+			len programs[program] =  6
+	priority = 6
+		program =  27
+			len programs[program] =  5
+	priority = 7
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male']
+			28: ['493', '554', '583', '596']
+
+applicant =  597 (Male)
+	priority = 0
+		program =  29
+			len programs[program] =  5
+	priority = 1
+		program =  26
+			len programs[program] =  6
+	priority = 2
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  27
+			len programs[program] =  5
+	priority = 4
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+			28: ['493', '554', '583', '596', '597']
+
+applicant =  598 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+
+applicant =  600 (Female)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  1
+			len programs[program] =  5
+	priority = 3
+		program =  4
+			len programs[program] =  6
+
+applicant =  601 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+
+applicant =  603 (Male)
+	priority = 0
+		program =  32
+			len programs[program] =  6
+	priority = 1
+		program =  29
+			len programs[program] =  5
+	priority = 2
+		program =  26
+			len programs[program] =  6
+	priority = 3
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  27
+			len programs[program] =  5
+
+applicant =  606 (Female)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  43
+			len programs[program] =  5
+	priority = 3
+		program =  19
+			len programs[program] =  5
+	priority = 4
+		program =  44
+			len programs[program] =  6
+	priority = 5
+		program =  20
+			len programs[program] =  6
+	priority = 6
+		program =  39
+			len programs[program] =  5
+	priority = 7
+		program =  40
+			len programs[program] =  6
+	priority = 8
+		program =  41
+			len programs[program] =  5
+
+applicant =  607 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  608 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  609 (Male)
+	priority = 0
+		program =  45
+			len programs[program] =  5
+	priority = 1
+		program =  46
+			len programs[program] =  6
+	priority = 2
+		program =  43
+			len programs[program] =  5
+	priority = 3
+		program =  41
+			len programs[program] =  5
+	priority = 4
+		program =  19
+			len programs[program] =  5
+	priority = 5
+		program =  20
+			len programs[program] =  6
+
+applicant =  610 (Male)
+	priority = 0
+		program =  13
+			len programs[program] =  5
+	priority = 1
+		program =  12
+			len programs[program] =  6
+
+applicant =  611 (Male)
+	priority = 0
+		program =  32
+			len programs[program] =  6
+	priority = 1
+		program =  33
+			len programs[program] =  5
+	priority = 2
+		program =  34
+		 ['Male', 'Female', 'Male', 'Male', 'Male']
+			34: ['239', '403', '411', '515', '611']
+
+applicant =  613 (Male)
+	priority = 0
+		program =  25
+			len programs[program] =  5
+	priority = 1
+		program =  29
+			len programs[program] =  5
+
+applicant =  614 (Female)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  43
+			len programs[program] =  5
+	priority = 3
+		program =  44
+			len programs[program] =  6
+	priority = 4
+		program =  21
+			len programs[program] =  5
+	priority = 5
+		program =  22
+			len programs[program] =  6
+	priority = 6
+		program =  19
+			len programs[program] =  5
+	priority = 7
+		program =  20
+			len programs[program] =  6
+	priority = 8
+		program =  33
+			len programs[program] =  5
+	priority = 9
+		program =  34
+		 ['Male', 'Female', 'Male', 'Male', 'Male', 'Female']
+			34: ['239', '403', '411', '515', '611', '614']
+
+applicant =  615 (Female)
+	priority = 0
+		program =  44
+			len programs[program] =  6
+	priority = 1
+		program =  46
+			len programs[program] =  6
+	priority = 2
+		program =  42
+		 ['Female', 'Female', 'Male', 'Male', 'Female']
+			42: ['455', '456', '487', '549', '615']
+
+applicant =  617 (Male)
+	priority = 0
+		program =  29
+			len programs[program] =  5
+	priority = 1
+		program =  32
+			len programs[program] =  6
+	priority = 2
+		program =  26
+			len programs[program] =  6
+	priority = 3
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  618 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  2
+			len programs[program] =  6
+
+applicant =  619 (Female)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  12
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  621 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  622 (Male)
+	priority = 0
+		program =  12
+			len programs[program] =  6
+
+applicant =  626 (Male)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 2
+		program =  44
+			len programs[program] =  6
+	priority = 3
+		program =  14
+			len programs[program] =  6
+
+applicant =  627 (Female)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+	priority = 1
+		program =  42
+		 ['Female', 'Female', 'Male', 'Male', 'Female', 'Female']
+			42: ['455', '456', '487', '549', '615', '627']
+
+applicant =  628 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  629 (Male)
+	priority = 0
+		program =  3
+			len programs[program] =  5
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  6
+			len programs[program] =  6
+	priority = 3
+		program =  2
+			len programs[program] =  6
+	priority = 4
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  631 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  26
+			len programs[program] =  6
+	priority = 2
+		program =  29
+			len programs[program] =  5
+	priority = 3
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  633 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  634 (Male)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  34
+			len programs[program] =  6
+	priority = 2
+		program =  44
+			len programs[program] =  6
+	priority = 3
+		program =  35
+			len programs[program] =  5
+
+applicant =  636 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  637 (Male)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+	priority = 1
+		program =  32
+			len programs[program] =  6
+	priority = 2
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  34
+			len programs[program] =  6
+
+applicant =  638 (Male)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 1
+		program =  29
+			len programs[program] =  5
+
+applicant =  644 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  645 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+
+applicant =  646 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  649 (Male)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+	priority = 1
+		program =  32
+			len programs[program] =  6
+	priority = 2
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  34
+			len programs[program] =  6
+
+applicant =  650 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  651 (Female)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  6
+			len programs[program] =  6
+	priority = 3
+		program =  4
+			len programs[program] =  6
+	priority = 4
+		program =  1
+			len programs[program] =  5
+	priority = 5
+		program =  2
+			len programs[program] =  6
+
+applicant =  652 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  12
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+
+applicant =  655 (Female)
+	priority = 0
+		program =  43
+			len programs[program] =  5
+	priority = 1
+		program =  44
+			len programs[program] =  6
+	priority = 2
+		program =  35
+			len programs[program] =  5
+	priority = 3
+		program =  36
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			36: ['264', '406', '421', '496', '509', '655']
+
+applicant =  656 (Male)
+	priority = 0
+		program =  46
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+
+applicant =  657 (Female)
+	priority = 0
+		program =  21
+			len programs[program] =  5
+	priority = 1
+		program =  41
+			len programs[program] =  5
+	priority = 2
+		program =  39
+			len programs[program] =  5
+	priority = 3
+		program =  43
+			len programs[program] =  5
+	priority = 4
+		program =  22
+			len programs[program] =  6
+	priority = 5
+		program =  42
+			len programs[program] =  6
+	priority = 6
+		program =  40
+			len programs[program] =  6
+	priority = 7
+		program =  44
+			len programs[program] =  6
+
+applicant =  658 (Female)
+	priority = 0
+		program =  39
+			len programs[program] =  5
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  45
+			len programs[program] =  5
+	priority = 3
+		program =  46
+			len programs[program] =  6
+	priority = 4
+		program =  21
+			len programs[program] =  5
+	priority = 5
+		program =  22
+			len programs[program] =  6
+	priority = 6
+		program =  19
+			len programs[program] =  5
+	priority = 7
+		program =  20
+			len programs[program] =  6
+
+applicant =  659 (Female)
+	priority = 0
+		program =  45
+			len programs[program] =  5
+	priority = 1
+		program =  39
+			len programs[program] =  5
+	priority = 2
+		program =  46
+			len programs[program] =  6
+	priority = 3
+		program =  40
+			len programs[program] =  6
+
+applicant =  660 (Female)
+	priority = 0
+		program =  46
+			len programs[program] =  6
+	priority = 1
+		program =  40
+			len programs[program] =  6
+
+applicant =  661 (Male)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+	priority = 1
+		program =  24
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+	priority = 3
+		program =  35
+			len programs[program] =  5
+
+applicant =  662 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  2
+			len programs[program] =  6
+
+applicant =  663 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  14
+			len programs[program] =  6
+	priority = 4
+		program =  43
+			len programs[program] =  5
+	priority = 5
+		program =  44
+			len programs[program] =  6
+
+applicant =  664 (Male)
+	priority = 0
+		program =  2
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  6
+			len programs[program] =  6
+
+applicant =  665 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  12
+			len programs[program] =  6
+
+applicant =  666 (Female)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  16
+			len programs[program] =  6
+	priority = 3
+		program =  18
+			len programs[program] =  6
+	priority = 4
+		program =  44
+			len programs[program] =  6
+
+applicant =  667 (Male)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  2
+			len programs[program] =  6
+
+applicant =  669 (Female)
+	priority = 0
+		program =  1
+			len programs[program] =  5
+	priority = 1
+		program =  3
+			len programs[program] =  5
+	priority = 2
+		program =  4
+			len programs[program] =  6
+	priority = 3
+		program =  2
+			len programs[program] =  6
+
+applicant =  670 (Female)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  5
+			len programs[program] =  5
+	priority = 3
+		program =  3
+			len programs[program] =  5
+	priority = 4
+		program =  35
+			len programs[program] =  5
+	priority = 5
+		program =  36
+			len programs[program] =  6
+
+applicant =  672 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  673 (Female)
+	priority = 0
+		program =  2
+			len programs[program] =  6
+	priority = 1
+		program =  6
+			len programs[program] =  6
+
+applicant =  674 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  675 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  2
+			len programs[program] =  6
+
+applicant =  676 (Male)
+	priority = 0
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  680 (Male)
+	priority = 0
+		program =  12
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  13
+			len programs[program] =  5
+	priority = 3
+		program =  23
+			len programs[program] =  5
+	priority = 4
+		program =  35
+			len programs[program] =  5
+	priority = 5
+		program =  19
+			len programs[program] =  5
+	priority = 6
+		program =  14
+			len programs[program] =  6
+	priority = 7
+		program =  36
+			len programs[program] =  6
+
+applicant =  681 (Female)
+	priority = 0
+		program =  7
+		 ['Male', 'Male', 'Male', 'Male', 'Female']
+			7: ['246', '273', '299', '333', '681']
+
+applicant =  682 (Female)
+	priority = 0
+		program =  7
+			len programs[program] =  5
+	priority = 1
+		program =  8
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			8: ['349', '397', '432', '434', '463', '682']
+
+applicant =  684 (Female)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+
+applicant =  685 (Male)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+	priority = 1
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  687 (Male)
+	priority = 0
+		program =  27
+			len programs[program] =  5
+	priority = 1
+		program =  19
+			len programs[program] =  5
+	priority = 2
+		program =  32
+			len programs[program] =  6
+	priority = 3
+		program =  26
+			len programs[program] =  6
+	priority = 4
+		program =  34
+			len programs[program] =  6
+
+applicant =  688 (Male)
+	priority = 0
+		program =  7
+			len programs[program] =  5
+	priority = 1
+		program =  8
+			len programs[program] =  6
+	priority = 2
+		program =  25
+			len programs[program] =  5
+	priority = 3
+		program =  29
+			len programs[program] =  5
+	priority = 4
+		program =  26
+			len programs[program] =  6
+	priority = 5
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  690 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  691 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  20
+			len programs[program] =  6
+	priority = 2
+		program =  16
+			len programs[program] =  6
+	priority = 3
+		program =  44
+			len programs[program] =  6
+
+applicant =  692 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  693 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  44
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  12
+			len programs[program] =  6
+	priority = 4
+		program =  24
+			len programs[program] =  6
+	priority = 5
+		program =  20
+			len programs[program] =  6
+
+applicant =  694 (Male)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+	priority = 1
+		program =  29
+			len programs[program] =  5
+	priority = 2
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  25
+			len programs[program] =  5
+	priority = 4
+		program =  8
+			len programs[program] =  6
+	priority = 5
+		program =  7
+			len programs[program] =  5
+
+applicant =  695 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  697 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  2
+			len programs[program] =  6
+
+applicant =  698 (Male)
+	priority = 0
+		program =  3
+			len programs[program] =  5
+	priority = 1
+		program =  5
+			len programs[program] =  5
+	priority = 2
+		program =  4
+			len programs[program] =  6
+	priority = 3
+		program =  6
+			len programs[program] =  6
+
+applicant =  699 (Female)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  12
+			len programs[program] =  6
+	priority = 2
+		program =  18
+			len programs[program] =  6
+	priority = 3
+		program =  14
+			len programs[program] =  6
+
+applicant =  700 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+
+applicant =  702 (Male)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+
+applicant =  703 (Male)
+	priority = 0
+		program =  27
+			len programs[program] =  5
+
+applicant =  706 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+
+applicant =  707 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  24
+			len programs[program] =  6
+	priority = 3
+		program =  22
+			len programs[program] =  6
+
+applicant =  708 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+
+applicant =  710 (Male)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  44
+			len programs[program] =  6
+	priority = 2
+		program =  36
+			len programs[program] =  6
+
+applicant =  711 (Male)
+	priority = 0
+		program =  44
+			len programs[program] =  6
+
+applicant =  712 (Male)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  36
+			len programs[program] =  6
+
+applicant =  717 (Female)
+	priority = 0
+		program =  36
+			len programs[program] =  6
+
+applicant =  721 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  44
+			len programs[program] =  6
+	priority = 2
+		program =  36
+			len programs[program] =  6
+
+applicant =  722 (Female)
+	priority = 0
+		program =  15
+			len programs[program] =  5
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  21
+			len programs[program] =  5
+	priority = 3
+		program =  22
+			len programs[program] =  6
+	priority = 4
+		program =  11
+			len programs[program] =  5
+	priority = 5
+		program =  12
+			len programs[program] =  6
+	priority = 6
+		program =  17
+			len programs[program] =  5
+	priority = 7
+		program =  18
+			len programs[program] =  6
+	priority = 8
+		program =  19
+			len programs[program] =  5
+	priority = 9
+		program =  20
+			len programs[program] =  6
+	priority = 10
+		program =  23
+			len programs[program] =  5
+	priority = 11
+		program =  24
+			len programs[program] =  6
+	priority = 12
+		program =  13
+			len programs[program] =  5
+	priority = 13
+		program =  14
+			len programs[program] =  6
+
+applicant =  725 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  726 (Male)
+	priority = 0
+		program =  33
+			len programs[program] =  5
+	priority = 1
+		program =  39
+			len programs[program] =  5
+	priority = 2
+		program =  35
+			len programs[program] =  5
+	priority = 3
+		program =  41
+			len programs[program] =  5
+	priority = 4
+		program =  43
+			len programs[program] =  5
+	priority = 5
+		program =  22
+			len programs[program] =  6
+	priority = 6
+		program =  34
+			len programs[program] =  6
+	priority = 7
+		program =  40
+			len programs[program] =  6
+	priority = 8
+		program =  14
+			len programs[program] =  6
+	priority = 9
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 10
+		program =  44
+			len programs[program] =  6
+	priority = 11
+		program =  42
+			len programs[program] =  6
+
+applicant =  727 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  20
+			len programs[program] =  6
+	priority = 2
+		program =  44
+			len programs[program] =  6
+	priority = 3
+		program =  33
+			len programs[program] =  5
+	priority = 4
+		program =  41
+			len programs[program] =  5
+	priority = 5
+		program =  36
+			len programs[program] =  6
+	priority = 6
+		program =  27
+			len programs[program] =  5
+	priority = 7
+		program =  34
+			len programs[program] =  6
+
+applicant =  729 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+
+applicant =  730 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+
+applicant =  731 (Male)
+	priority = 0
+		program =  2
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  6
+			len programs[program] =  6
+
+applicant =  732 (Male)
+	priority = 0
+		program =  2
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+
+applicant =  733 (Female)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  10
+			len programs[program] =  6
+
+applicant =  734 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+	priority = 1
+		program =  26
+			len programs[program] =  6
+	priority = 2
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  735 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+
+applicant =  736 (Male)
+	priority = 0
+		program =  20
+			len programs[program] =  6
+	priority = 1
+		program =  44
+			len programs[program] =  6
+
+applicant =  737 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  36
+			len programs[program] =  6
+
+applicant =  739 (Female)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  22
+			len programs[program] =  6
+	priority = 3
+		program =  10
+			len programs[program] =  6
+	priority = 4
+		program =  14
+			len programs[program] =  6
+	priority = 5
+		program =  20
+			len programs[program] =  6
+
+applicant =  742 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  24
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  20
+			len programs[program] =  6
+	priority = 4
+		program =  40
+			len programs[program] =  6
+	priority = 5
+		program =  44
+			len programs[program] =  6
+	priority = 6
+		program =  26
+			len programs[program] =  6
+	priority = 7
+		program =  34
+			len programs[program] =  6
+	priority = 8
+		program =  36
+			len programs[program] =  6
+
+applicant =  743 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+	priority = 1
+		program =  29
+			len programs[program] =  5
+	priority = 2
+		program =  25
+			len programs[program] =  5
+	priority = 3
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  26
+			len programs[program] =  6
+
+applicant =  744 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  26
+			len programs[program] =  6
+
+applicant =  746 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+
+applicant =  747 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  10
+			len programs[program] =  6
+	priority = 3
+		program =  16
+			len programs[program] =  6
+	priority = 4
+		program =  24
+			len programs[program] =  6
+	priority = 5
+		program =  12
+			len programs[program] =  6
+
+applicant =  748 (Male)
+	priority = 0
+		program =  24
+			len programs[program] =  6
+
+applicant =  749 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  750 (Female)
+	priority = 0
+		program =  2
+			len programs[program] =  6
+	priority = 1
+		program =  6
+			len programs[program] =  6
+	priority = 2
+		program =  4
+			len programs[program] =  6
+	priority = 3
+		program =  35
+			len programs[program] =  5
+	priority = 4
+		program =  27
+			len programs[program] =  5
+
+applicant =  752 (Female)
+	priority = 0
+		program =  12
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+
+applicant =  754 (Male)
+	priority = 0
+		program =  16
+			len programs[program] =  6
+
+applicant =  755 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  757 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  44
+			len programs[program] =  6
+
+applicant =  758 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  44
+			len programs[program] =  6
+	priority = 2
+		program =  46
+			len programs[program] =  6
+	priority = 3
+		program =  40
+			len programs[program] =  6
+
+applicant =  760 (Male)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+
+applicant =  762 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  14
+			len programs[program] =  6
+	priority = 3
+		program =  20
+			len programs[program] =  6
+
+applicant =  763 (Male)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+
+applicant =  765 (Male)
+	priority = 0
+		program =  19
+			len programs[program] =  5
+	priority = 1
+		program =  35
+			len programs[program] =  5
+
+applicant =  767 (Female)
+	priority = 0
+		program =  19
+			len programs[program] =  5
+	priority = 1
+		program =  40
+			len programs[program] =  6
+	priority = 2
+		program =  46
+			len programs[program] =  6
+
+applicant =  769 (Male)
+	priority = 0
+		program =  36
+			len programs[program] =  6
+
+applicant =  770 (Female)
+	priority = 0
+		program =  12
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  34
+			len programs[program] =  6
+
+applicant =  772 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+	priority = 1
+		program =  26
+			len programs[program] =  6
+
+applicant =  773 (Female)
+	priority = 0
+		program =  5
+			len programs[program] =  5
+	priority = 1
+		program =  2
+			len programs[program] =  6
+	priority = 2
+		program =  6
+			len programs[program] =  6
+	priority = 3
+		program =  4
+			len programs[program] =  6
+
+applicant =  775 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+
+applicant =  776 (Female)
+	priority = 0
+		program =  25
+			len programs[program] =  5
+	priority = 1
+		program =  27
+			len programs[program] =  5
+	priority = 2
+		program =  29
+			len programs[program] =  5
+	priority = 3
+		program =  8
+			len programs[program] =  6
+	priority = 4
+		program =  26
+			len programs[program] =  6
+	priority = 5
+		program =  30
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Female']
+			30: ['153', '346', '385', '386', '399', '776']
+
+applicant =  777 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  16
+			len programs[program] =  6
+	priority = 2
+		program =  39
+			len programs[program] =  5
+	priority = 3
+		program =  40
+			len programs[program] =  6
+
+applicant =  781 (Female)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+	priority = 1
+		program =  26
+			len programs[program] =  6
+
+applicant =  782 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  2
+			len programs[program] =  6
+
+applicant =  783 (Male)
+	priority = 0
+		program =  2
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  784 (Male)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+	priority = 1
+		program =  30
+			len programs[program] =  6
+
+applicant =  787 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  2
+			len programs[program] =  6
+	priority = 2
+		program =  4
+			len programs[program] =  6
+
+applicant =  790 (Male)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  20
+			len programs[program] =  6
+
+applicant =  792 (Male)
+	priority = 0
+		program =  4
+			len programs[program] =  6
+
+applicant =  793 (Male)
+	priority = 0
+		program =  32
+			len programs[program] =  6
+	priority = 1
+		program =  26
+			len programs[program] =  6
+	priority = 2
+		program =  34
+			len programs[program] =  6
+	priority = 3
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 4
+		program =  42
+			len programs[program] =  6
+	priority = 5
+		program =  20
+			len programs[program] =  6
+
+applicant =  795 (Male)
+	priority = 0
+		program =  45
+			len programs[program] =  5
+	priority = 1
+		program =  46
+			len programs[program] =  6
+
+applicant =  797 (Male)
+	priority = 0
+		program =  32
+			len programs[program] =  6
+	priority = 1
+		program =  26
+			len programs[program] =  6
+	priority = 2
+		program =  30
+			len programs[program] =  6
+
+applicant =  799 (Male)
+	priority = 0
+		program =  25
+			len programs[program] =  5
+	priority = 1
+		program =  29
+			len programs[program] =  5
+	priority = 2
+		program =  32
+			len programs[program] =  6
+	priority = 3
+		program =  27
+			len programs[program] =  5
+	priority = 4
+		program =  26
+			len programs[program] =  6
+	priority = 5
+		program =  30
+			len programs[program] =  6
+	priority = 6
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  802 (Female)
+	priority = 0
+		program =  12
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  40
+			len programs[program] =  6
+	priority = 3
+		program =  34
+			len programs[program] =  6
+
+applicant =  803 (Female)
+	priority = 0
+		program =  31
+			len programs[program] =  5
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  41
+			len programs[program] =  5
+	priority = 3
+		program =  35
+			len programs[program] =  5
+	priority = 4
+		program =  27
+			len programs[program] =  5
+
+applicant =  804 (Male)
+	priority = 0
+		program =  4
+			len programs[program] =  6
+	priority = 1
+		program =  2
+			len programs[program] =  6
+
+applicant =  805 (Male)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+
+applicant =  808 (Female)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+
+applicant =  809 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+
+applicant =  810 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+	priority = 1
+		program =  29
+			len programs[program] =  5
+	priority = 2
+		program =  30
+			len programs[program] =  6
+
+applicant =  811 (Male)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+	priority = 1
+		program =  30
+			len programs[program] =  6
+
+applicant =  815 (Female)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+
+applicant =  817 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+
+applicant =  819 (Female)
+	priority = 0
+		program =  18
+			len programs[program] =  6
+	priority = 1
+		program =  14
+			len programs[program] =  6
+	priority = 2
+		program =  26
+			len programs[program] =  6
+	priority = 3
+		program =  44
+			len programs[program] =  6
+	priority = 4
+		program =  20
+			len programs[program] =  6
+	priority = 5
+		program =  30
+			len programs[program] =  6
+	priority = 6
+		program =  24
+			len programs[program] =  6
+	priority = 7
+		program =  12
+			len programs[program] =  6
+
+applicant =  820 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+	priority = 1
+		program =  25
+			len programs[program] =  5
+
+applicant =  824 (Male)
+	priority = 0
+		program =  4
+			len programs[program] =  6
+	priority = 1
+		program =  2
+			len programs[program] =  6
+	priority = 2
+		program =  6
+			len programs[program] =  6
+	priority = 3
+		program =  27
+			len programs[program] =  5
+	priority = 4
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  826 (Female)
+	priority = 0
+		program =  32
+			len programs[program] =  6
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  26
+			len programs[program] =  6
+	priority = 3
+		program =  29
+			len programs[program] =  5
+	priority = 4
+		program =  30
+			len programs[program] =  6
+
+applicant =  827 (Male)
+	priority = 0
+		program =  44
+			len programs[program] =  6
+
+applicant =  828 (Male)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+	priority = 1
+		program =  29
+			len programs[program] =  5
+	priority = 2
+		program =  30
+			len programs[program] =  6
+
+applicant =  829 (Female)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+	priority = 1
+		program =  30
+			len programs[program] =  6
+
+applicant =  831 (Female)
+	priority = 0
+		program =  14
+			len programs[program] =  6
+	priority = 1
+		program =  24
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+
+applicant =  832 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+	priority = 1
+		program =  29
+			len programs[program] =  5
+	priority = 2
+		program =  30
+			len programs[program] =  6
+	priority = 3
+		program =  26
+			len programs[program] =  6
+
+applicant =  833 (Male)
+	priority = 0
+		program =  22
+			len programs[program] =  6
+	priority = 1
+		program =  18
+			len programs[program] =  6
+	priority = 2
+		program =  20
+			len programs[program] =  6
+	priority = 3
+		program =  44
+			len programs[program] =  6
+	priority = 4
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  834 (Male)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+	priority = 1
+		program =  30
+			len programs[program] =  6
+	priority = 2
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  34
+			len programs[program] =  6
+
+applicant =  835 (Male)
+	priority = 0
+		program =  8
+			len programs[program] =  6
+	priority = 1
+		program =  26
+			len programs[program] =  6
+	priority = 2
+		program =  30
+			len programs[program] =  6
+
+applicant =  836 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  2
+			len programs[program] =  6
+	priority = 2
+		program =  4
+			len programs[program] =  6
+
+applicant =  838 (Male)
+	priority = 0
+		program =  35
+			len programs[program] =  5
+	priority = 1
+		program =  27
+			len programs[program] =  5
+	priority = 2
+		program =  33
+			len programs[program] =  5
+
+applicant =  841 (Male)
+	priority = 0
+		program =  32
+			len programs[program] =  6
+	priority = 1
+		program =  25
+			len programs[program] =  5
+	priority = 2
+		program =  26
+			len programs[program] =  6
+	priority = 3
+		program =  27
+			len programs[program] =  5
+	priority = 4
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+
+applicant =  842 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  16
+			len programs[program] =  6
+
+applicant =  845 (Male)
+	priority = 0
+		program =  30
+			len programs[program] =  6
+	priority = 1
+		program =  29
+			len programs[program] =  5
+	priority = 2
+		program =  28
+		 ['Male', 'Male', 'Male', 'Male', 'Male', 'Male']
+	priority = 3
+		program =  27
+			len programs[program] =  5
+	priority = 4
+		program =  26
+			len programs[program] =  6
+	priority = 5
+		program =  25
+			len programs[program] =  5
+	priority = 6
+		program =  32
+			len programs[program] =  6
+	priority = 7
+		program =  31
+			len programs[program] =  5
+
+applicant =  846 (Female)
+	priority = 0
+		program =  40
+			len programs[program] =  6
+
+applicant =  847 (Male)
+	priority = 0
+		program =  26
+			len programs[program] =  6
+	priority = 1
+		program =  36
+			len programs[program] =  6
+
+applicant =  848 (Male)
+	priority = 0
+		program =  6
+			len programs[program] =  6
+	priority = 1
+		program =  4
+			len programs[program] =  6
+	priority = 2
+		program =  2
+			len programs[program] =  6
+	priority = 3
+		program =  5
+			len programs[program] =  5
+	priority = 4
+		program =  3
+			len programs[program] =  5
+	priority = 5
+		program =  1
+			len programs[program] =  5
+
+applicant =  850 (Male)
+	priority = 0
+		program =  36
+			len programs[program] =  6
+
+applicant =  851 (Male)
+	priority = 0
+		program =  10
+			len programs[program] =  6
+	priority = 1
+		program =  22
+			len programs[program] =  6
+	priority = 2
+		program =  16
+			len programs[program] =  6
+	priority = 3
+		program =  18
+			len programs[program] =  6
+	priority = 4
+		program =  24
+			len programs[program] =  6
+	priority = 5
+		program =  40
+			len programs[program] =  6
+	priority = 6
+		program =  12
+			len programs[program] =  6
+	priority = 7
+		program =  14
+			len programs[program] =  6
+
+Detailed Result:
+
+1-Information and Communication Engineering Regular:  ['109-CHIRANJIBI PANDEY (M)', '168-PURUSHOTAM SANGROULA (M)', '176-NABIN LAL SHRESTHA (M)', '188-SHISHIR PANTA (M)', '199-VAISHNAVI SAUD (F)']
+2-Information and Communication Engineering Full Fee:  ['225-SHIVA BHANDARI (M)', '251-AASHISH GYANWALI (M)', '274-BIBAT THOKAR (M)', '295-SUBARNA BASTAKOTI (M)', '311-SUDIP POUDEL (M)', '376-PRATIMA CHAPAGAI (F)']
+3-Computer System and Knowledge Engineering Regular:  ['142-HARI PRASAD BHATTARAI (M)', '163-RUDRA NEPAL (M)', '212-SUMAN SHRESTHA (M)', '219-TEJASVI RAJ PANT (M)', '317-ALINA LAMICHHANE (F)']
+4-Computer System and Knowledge Engineering Full Fee:  ['296-BISHWAS POKHAREL (M)', '312-DINESH CHAUDHARY (M)', '338-CHANDRA PRAKASH RASKOTI (M)', '353-ANDOLAN PARAJULI (M)', '377-SAKAR PUDASAINI (M)', '451-SUSMITA SHRESTHA (F)']
+5-Computer Engineering Specialization in Data Science Regular:  ['15-SUPRABHA REGMI (F)', '116-BAIKUNTHA KUMAR ACHARYA (M)', '130-BIPLAB GAUTAM (M)', '145-SUBASH MAHARJAN (M)', '162-KRIMESH BAJIMAYO (M)']
+6-Computer Engineering Specialization in Data Science Full Fee:  ['235-BIDHAN CHANDRA BHATTARAI (M)', '248-BIPAN CHHETRI (M)', '279-SHUSHANTA PUDASAINI (M)', '326-PRABHAKAR SINGH (M)', '329-BIRAJ SILWAL (M)', '429-CHANDA HYOJU (F)']
+7-Power System Engineering Regular:  ['246-CHANDAN POKHREL (M)', '273-MILAN SAPKOTA (M)', '299-ASHISH PAUDEL (M)', '333-RUPESH KUMAR SAH (M)', '681-ELINA PARAJULI (F)']
+8-Power System Engineering Full Fee:  ['349-BIBEK RAI (M)', '397-IN BAHADUR RAI (M)', '432-NANDKISHOR SAH (M)', '434-ANISH SUBEDI (M)', '463-MADHAV PRASAD NAGARKOTI (M)', '682-ALINA DUMARU (F)']
+9-Structural Engineering Regular:  ['3-NABIN BISTA (M)', '5-MANI DEV PANT (M)', '10-AGAMAN SUBEDI (M)', '13-RABIN THAPA (M)', '56-MIMAMSA MARHATTA (F)']
+10-Structural Engineering Full Fee:  ['26-ANURAG JOSHI (M)', '34-NEERAJ BHANDARI (M)', '35-ADWAIT RAM BHANDARI (M)', '36-NITESH BHANDARI (M)', '37-RABIN LAMICHHANE (M)', '72-SALINA MAHARJAN (F)']
+11-Water Resources Engineering Regular:  ['16-AMAR DAHAL (M)', '33-SUDARSHAN SIGDEL (M)', '46-PRAMIT GHIMIRE (M)', '48-SUMAN RAJ REGMI (M)', '76-GRISHMA THAGUNNA (F)']
+12-Water Resources Engineering Full Fee:  ['68-TIKARAM ADHIKARI (M)', '79-SHOVIK SHILPAKAR (M)', '82-HIMAL PURI (M)', '83-SUBASH PAUDEL (M)', '92-MOHAN BHATTRAI (M)', '473-ANJILA SHRESTHA (F)']
+13-Environmental Engineering Regular:  ['51-RAMESH ADHIKARI (M)', '67-KOBID KUNWAR (M)', '71-DEEPAK RAJ PANERU (M)', '84-SAROJ MAKA (M)', '139-SEMINA GAUTAM (F)']
+14-Environmental Engineering Full Fee:  ['86-KAMAL PUN (M)', '110-ANISH PANDEY (M)', '123-AASHISH REGMI (M)', '129-NIYOG UPRETY (M)', '131-PRASANNA ADHIKARI (M)', '177-URUSHA BUDTHAPA (F)']
+15-Geotechnical Engineering Regular:  ['8-KSHITIZ JOSHI (M)', '12-SWATI ACHARYA (F)', '21-SANJEEB PUDASAINI (M)', '29-CHAKRA BHANDARI (M)', '30-BIBEK NEPAL (M)']
+16-Geotechnical Engineering Full Fee:  ['31-SURESH KUNWAR (M)', '38-GAURAV BASTOLA (M)', '39-SUNIL KUMAR GUPTA (M)', '40-ASHIN MAHARJAN (M)', '41-SAURAV GHIMIRE (M)', '127-BHUMA BHANDARI (F)']
+17-Transportation Engineering Regular:  ['47-PUSKAR RAJ GAUTAM (M)', '53-SUYOG BHATTARAI (M)', '54-ANURADHA KC (F)', '57-SAURAV SHRESTHA (M)', '60-SANJAY LUITEL (M)']
+18-Transportation Engineering Full Fee:  ['65-RIBASH DAHAL (M)', '66-SANTOSH KUMAR THAPA (M)', '73-BHARAT ARYAL (M)', '80-UKESH DAWADI (M)', '81-BHUGOL KHANAL (M)', '140-PRIYANKA LIMBU (F)']
+19-Disaster Risk Management Regular:  ['32-NISHAN NEUPANE (M)', '99-RANJAN RAJ DAHAL (M)', '122-HOM RAJ KHADKA (M)', '124-RIJAN SHRESTHA (M)', '192-AMBIKA CHAUDHARY (F)']
+20-Disaster Risk Management Full Fee:  ['191-AVASH THAPA (M)', '193-SHIVA KUMAR DAS (M)', '194-BISHWAS BHATTA (M)', '195-PRASHANT KC (M)', '198-SUNIL SHARMA (M)', '209-SNEHA BHATTA (F)']
+21-Construction Management Regular:  ['11-SUMAN DHAKAL (M)', '17-ASHMITA SHAKYA (F)', '19-SHUVANJAN DAHAL (M)', '23-KSHITIZ BARAL (M)', '24-SUSHIL BASNET (M)']
+22-Construction Management Full Fee:  ['27-RAJ BASNET (M)', '42-ADITYA PANDEY (M)', '49-SAROJ PRASAD ADHIKARI (M)', '52-SASHANK GAUDEL (M)', '64-SAURAV POUDEL (M)', '108-MALIKA AWAL (F)']
+23-Hydropower Engineering Regular:  ['78-GAURAV PANTH (M)', '112-SHOVAKANT RAUT (M)', '120-OPENDRA YADAV (M)', '146-SAUGAT UPRETI (M)', '156-AARATI BHATTA (F)']
+24-Hydropower Engineering Full Fee:  ['102-PRARAMBHA REULE (M)', '169-SAMYOG BHANDARI (M)', '170-YUVARAJ TIMALSINA (M)', '178-SAGAR BHANDARI (M)', '179-KAPIL THAPA (M)', '365-PRITI SHAH (F)']
+25-Renewable Energy Engineering Regular:  ['22-RAJAN BHUSAL (M)', '43-BIBEK SHAKYA (M)', '61-PRADEEP KUMAR YADAV (M)', '77-SOM PRASAD PANGENI (M)', '314-SURAKSHA PAL (F)']
+26-Renewable Energy Engineering Full Fee:  ['352-RAJENDRA SHRESTHA (M)', '360-GOPAL BHATTARAI (M)', '366-SAROJ BISTA (M)', '373-NAVIN BHATT (M)', '380-SUDEEP SAH (M)', '573-RUKSHANA SHRESTHA (F)']
+27-Technology and Innovation Management Regular:  ['134-PRATIK ADHIKARI (M)', '233-RUPESH KUMAR YADAV (M)', '234-MOKSHYA RAJYA LAXMI DEVI PRADHAN (F)', '291-ABHISHEK BHANDARI (M)', '361-SUNIL YADAV (M)']
+28-Technology and Innovation Management Full Fee:  ['493-NIRMAL BURLAKOTI (M)', '554-BIRENDRA BHANDARI (M)', '583-MANISH SIGDEL (M)', '596-ANIL SHAH (M)', '597-NISHAN TIMILSINA (M)']
+29-Energy Systems Planning and Management Regular:  ['74-MADHAV BARAL (M)', '93-PARTAP BAHADUR SAUD (M)', '100-SAGAR RAJ BARAL (M)', '115-RAMESH JOSHI (M)', '472-ARCHANA SAH (F)']
+30-Energy Systems Planning and Management Full Fee:  ['153-SUBASH K.C. (M)', '346-MUKESH BATAJOO (M)', '385-BISHESH BHATTARAI (M)', '386-NITISH SHRESTHA (M)', '399-SANNY KUMAR KURMI (M)', '776-KABINA MAHARJAN (F)']
+31-Mechanical Systems Design and Engineering Regular:  ['1-SANDIP GEWALI (M)', '2-SUNIL SHARMA (M)', '4-BIKKI CHHANTYAL (M)', '9-SALIM MAHARJAN (M)', '189-ANUSKA GAUTAM (F)']
+32-Mechanical Systems Design and Engineering Full Fee:  ['20-BIBEK ADHIKARI (M)', '87-PRAJJWAL KHATRI (M)', '113-ANISH THAPA (M)', '180-SUJAN DAHAL (M)', '249-SHISHIR KUMAR DAS (M)', '440-KABITA OJHA (F)']
+33-Material Science and Engineering Regular:  ['244-NITESH DAHAL (M)', '395-AVASH SAPKOTA (M)', '404-SUSHIL GHIMIRE (M)', '408-BAIBHAV KUMAR THAKUR (M)', '563-BRABINA MAHAT (F)']
+34-Material Science and Engineering Full Fee:  ['239-MOTI RAM GIRI (M)', '403-SUZA KARKI (F)', '411-ARJUN BASNET (M)', '515-PRAJWOL ACHARYA (M)', '611-RESHAM K SHRESTHA (M)', '614-DRISHTY MAHARJAN (F)']
+35-Climate Change and Development Regular:  ['160-SURAJ GIRI (M)', '216-NABIN CHAULAGAIN (M)', '231-BENZAAMIN SHRESTHA (M)', '254-ANISH BHANDARI (M)', '490-ANJU RAI (F)']
+36-Climate Change and Development Full Fee:  ['264-RABIN GAUTAM (M)', '406-RAJNESH RAI (M)', '421-PRANAV YADAV (M)', '496-SAILESH BUDHATHOKI (M)', '509-RAVI GAUTAM (M)', '655-SUJATA SHRESTHA (F)']
+37-Applied Mathematics Regular:  ['574-RADHESHYAM THAKUR (M)']
+38-Applied Mathematics Full Fee:  []
+39-Urban Planning Regular:  ['7-PRABAL DAHAL (M)', '14-ANUP GHIMIRE (M)', '25-CHUDAMANI KARKI (M)', '28-KESHAV THAPA (M)', '62-SHIRISH MAHARJAN (F)']
+40-Urban Planning Full Fee:  ['58-SARIK AWALE (M)', '63-SUDEEP SHRESTHA (M)', '135-MONA NAKARMI (F)', '136-PAMPHA MOKTAN (F)', '154-RACHITA SUBEDI (F)', '155-KRISHNA HARI PUDASAINI (M)']
+41-Energy for Sustainable Social Development Regular:  ['143-DINESH RAMTEL (M)', '151-TRILOCHAN ADHIKARI (M)', '238-SUPRIYA THAPA (F)', '318-ANISHA KUNWAR (F)', '340-SANGIT LAMICHHANE (M)']
+42-Energy for Sustainable Social Development Full Fee:  ['455-ROSHANI JAISWAL (F)', '456-SUVEKSHYA ACHARYA (F)', '487-SUJAN MAHARJAN (M)', '549-SAMYAM MISHRA (M)', '615-MANISHA KARKI (F)', '627-SUJATA SHRESTHA (F)']
+43-Energy Efficient Buildings Regular:  ['50-PRAVIN SHRESTHA (M)', '89-PRASIDDHEE HAMAL (F)', '95-AARZOO JHA (F)', '118-PRABIN BASNET (M)', '133-ASTHA PANTA (F)']
+44-Energy Efficient Buildings Full Fee:  ['247-SUDIKSYA BHANDARI (F)', '259-BIKEN SHRESTHA (M)', '290-DIBESH MAN MALEGO (M)', '308-SANDEEP BHUJEL (M)', '320-KRISHNA SHRESTHA (M)', '342-SHRIJAN BASNET (M)']
+45-Architecture Regular:  ['44-DIPGEST KATUWAL (M)', '98-AASISH BK (M)', '147-DIKESH SHRESTHA (M)', '236-NITESH POUDEL (M)', '304-SWOSTINA RANJIT (F)']
+46-Architecture Full Fee:  ['257-GANGA SAGAR BHATT (M)', '351-SHRISTI JOSHI (F)', '358-MILIND RAJ BAJRACHARYA (M)', '381-PRATIVA KHANAL (F)', '391-NIRAKAR SHRESTHA (M)', '417-YOGI SHAH (M)']
+
+Summarized Result:
+
+1: ['109', '168', '176', '188', '199']
+2: ['225', '251', '274', '295', '311', '376']
+3: ['142', '163', '212', '219', '317']
+4: ['296', '312', '338', '353', '377', '451']
+5: ['15', '116', '130', '145', '162']
+6: ['235', '248', '279', '326', '329', '429']
+7: ['246', '273', '299', '333', '681']
+8: ['349', '397', '432', '434', '463', '682']
+9: ['3', '5', '10', '13', '56']
+10: ['26', '34', '35', '36', '37', '72']
+11: ['16', '33', '46', '48', '76']
+12: ['68', '79', '82', '83', '92', '473']
+13: ['51', '67', '71', '84', '139']
+14: ['86', '110', '123', '129', '131', '177']
+15: ['8', '12', '21', '29', '30']
+16: ['31', '38', '39', '40', '41', '127']
+17: ['47', '53', '54', '57', '60']
+18: ['65', '66', '73', '80', '81', '140']
+19: ['32', '99', '122', '124', '192']
+20: ['191', '193', '194', '195', '198', '209']
+21: ['11', '17', '19', '23', '24']
+22: ['27', '42', '49', '52', '64', '108']
+23: ['78', '112', '120', '146', '156']
+24: ['102', '169', '170', '178', '179', '365']
+25: ['22', '43', '61', '77', '314']
+26: ['352', '360', '366', '373', '380', '573']
+27: ['134', '233', '234', '291', '361']
+28: ['493', '554', '583', '596', '597']
+29: ['74', '93', '100', '115', '472']
+30: ['153', '346', '385', '386', '399', '776']
+31: ['1', '2', '4', '9', '189']
+32: ['20', '87', '113', '180', '249', '440']
+33: ['244', '395', '404', '408', '563']
+34: ['239', '403', '411', '515', '611', '614']
+35: ['160', '216', '231', '254', '490']
+36: ['264', '406', '421', '496', '509', '655']
+37: ['574']
+38: []
+39: ['7', '14', '25', '28', '62']
+40: ['58', '63', '135', '136', '154', '155']
+41: ['143', '151', '238', '318', '340']
+42: ['455', '456', '487', '549', '615', '627']
+43: ['50', '89', '95', '118', '133']
+44: ['247', '259', '290', '308', '320', '342']
+45: ['44', '98', '147', '236', '304']
+46: ['257', '351', '358', '381', '391', '417']
