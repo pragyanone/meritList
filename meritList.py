@@ -91,7 +91,6 @@ with open(csvFile) as f:
             applicants[row[5]].append(int1(row[index]))
 
 programs = {k: [] for k in range(1, noOfPrograms + 1)}
-i = 0
 for applicant in applicants:
     if verbose == 1:
         print("\napplicant = ", applicant, f"({applicants[applicant][3]})")
