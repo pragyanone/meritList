@@ -129,8 +129,8 @@ if detail == 1:
         print(
             f"{programNames[program-1]}: ",
             [
-                f"{applicants[rank][5]}-{applicants[rank][2]} ({applicants[rank][3][0]})"
-                for rank in programs[program]
+                f"{applicants[applicant][5]}-{applicants[applicant][2]} ({applicants[applicant][3][0]})"
+                for applicant in programs[program]
             ],
         )
 print("\nSummarized Result:\n")
